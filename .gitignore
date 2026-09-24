@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+artifacts/
+amanah/data/watchlist.json
+amanah/data/customers.json
+amanah/data/transactions.csv
+amanah/data/un_consolidated*.json

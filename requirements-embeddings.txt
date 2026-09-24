@@ -1,0 +1,2 @@
+# Optional: hybrid multilingual retrieval (downloads a ~470 MB model on first run)
+sentence-transformers>=3.0

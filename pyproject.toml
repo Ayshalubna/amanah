@@ -1,0 +1,17 @@
+[project]
+name = "amanah"
+version = "1.0.0"
+description = "Agentic AML & KYC investigation copilot (Arabic-English) with human-in-the-loop approval"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 130
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::UserWarning"]

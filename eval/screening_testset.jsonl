@@ -1,0 +1,1180 @@
+{"query": "Hamad Khalid Farouk", "target": "WL-0001", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "حمد خالد فاروق", "target": "WL-0001", "label": 1, "kind": "arabic_script", "dob": "1957-02-14", "nationality": "IR"}
+{"query": "حمد خالدّ فاروُق", "target": "WL-0001", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Hamad Farouk", "target": "WL-0001", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Farouk Hamad Khalid", "target": "WL-0001", "label": 1, "kind": "reordered", "dob": "1957-02-14", "nationality": "IR"}
+{"query": "Hamd Khalid Farouk", "target": "WL-0001", "label": 1, "kind": "typo", "dob": "1957-02-14", "nationality": "IR"}
+{"query": "Sheikh Hamad Khalid Farouk", "target": "WL-0001", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Hamad فاروق", "target": "WL-0001", "label": 1, "kind": "mixed_script", "dob": "1957-02-14", "nationality": "IR"}
+{"query": "Ali Ayesha Zayani", "target": "WL-0002", "label": 1, "kind": "spelling_variant", "dob": "1969-01-18", "nationality": "LB"}
+{"query": "علي عائشة الزياني", "target": "WL-0002", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "علِيُ عّائشة الزِياني", "target": "WL-0002", "label": 1, "kind": "arabic_with_diacritics", "dob": "1969-01-18", "nationality": "LB"}
+{"query": "Ali Zayani", "target": "WL-0002", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Zayani Ali Aisha", "target": "WL-0002", "label": 1, "kind": "reordered", "dob": "1969-01-18", "nationality": "LB"}
+{"query": "Ali Aisha  Zayani", "target": "WL-0002", "label": 1, "kind": "typo", "dob": "1969-01-18", "nationality": "LB"}
+{"query": "Sheikh Ali Aisha Zayani", "target": "WL-0002", "label": 1, "kind": "honorific", "dob": "1969-01-18", "nationality": "LB"}
+{"query": "Ali الزياني", "target": "WL-0002", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Khaled Aisha Al-Nuaimy", "target": "WL-0003", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "خالد عائشة النعيمي", "target": "WL-0003", "label": 1, "kind": "arabic_script", "dob": "1961-09-23", "nationality": "EG"}
+{"query": "خالِد عَائشة ُالنَعيمِيَ", "target": "WL-0003", "label": 1, "kind": "arabic_with_diacritics", "dob": "1961-09-23", "nationality": "EG"}
+{"query": "Khaled Al-Nuaimy", "target": "WL-0003", "label": 1, "kind": "middle_name_dropped", "dob": "1961-09-23", "nationality": "EG"}
+{"query": "Al Nuaimi Khalid Aisha", "target": "WL-0003", "label": 1, "kind": "reordered", "dob": "1961-09-23", "nationality": "EG"}
+{"query": "Khalid Aisha  Al Nuaimi", "target": "WL-0003", "label": 1, "kind": "typo", "dob": "1961-09-23", "nationality": "EG"}
+{"query": "Sheikh Khalid Aisha Al Nuaimi", "target": "WL-0003", "label": 1, "kind": "honorific", "dob": "1961-09-23", "nationality": "EG"}
+{"query": "Khalid النعيمي", "target": "WL-0003", "label": 1, "kind": "mixed_script", "dob": "1961-09-23", "nationality": "EG"}
+{"query": "Nourah Hassan Osman", "target": "WL-0004", "label": 1, "kind": "spelling_variant", "dob": "1984-06-10", "nationality": "SY"}
+{"query": "نورة حسن عثمان", "target": "WL-0004", "label": 1, "kind": "arabic_script", "dob": "1984-06-10", "nationality": "SY"}
+{"query": "نورة ِحسّن عثمِان", "target": "WL-0004", "label": 1, "kind": "arabic_with_diacritics", "dob": "1984-06-10", "nationality": "SY"}
+{"query": "Nora Uthman", "target": "WL-0004", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Othman Noura Hasan", "target": "WL-0004", "label": 1, "kind": "reordered", "dob": "1984-06-10", "nationality": "SY"}
+{"query": "Noura Hasaan Othman", "target": "WL-0004", "label": 1, "kind": "typo", "dob": "1984-06-10", "nationality": "SY"}
+{"query": "Sheikh Noura Hasan Othman", "target": "WL-0004", "label": 1, "kind": "honorific", "dob": "1984-06-10", "nationality": "SY"}
+{"query": "Noura عثمان", "target": "WL-0004", "label": 1, "kind": "mixed_script", "dob": "1984-06-10", "nationality": "SY"}
+{"query": "Ali Maryam Saleh", "target": "WL-0005", "label": 1, "kind": "spelling_variant", "dob": "1987-07-06", "nationality": "GB"}
+{"query": "علي مريم صالح", "target": "WL-0005", "label": 1, "kind": "arabic_script", "dob": "1987-07-06", "nationality": "GB"}
+{"query": "عليّ َمريُم ِصّالِح", "target": "WL-0005", "label": 1, "kind": "arabic_with_diacritics", "dob": "1987-07-06", "nationality": "GB"}
+{"query": "Ali Saleh", "target": "WL-0005", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Saleh Ali Maryam", "target": "WL-0005", "label": 1, "kind": "reordered", "dob": "1987-07-06", "nationality": "GB"}
+{"query": "Ali Maryam Salleh", "target": "WL-0005", "label": 1, "kind": "typo", "dob": "1987-07-06", "nationality": "GB"}
+{"query": "Sheikh Ali Maryam Saleh", "target": "WL-0005", "label": 1, "kind": "honorific", "dob": "1987-07-06", "nationality": "GB"}
+{"query": "Ali صالح", "target": "WL-0005", "label": 1, "kind": "mixed_script", "dob": "1987-07-06", "nationality": "GB"}
+{"query": "Tariq Ahmed Alshamsi", "target": "WL-0006", "label": 1, "kind": "spelling_variant", "dob": "1984-02-27", "nationality": "EG"}
+{"query": "طارق أحمد الشامسي", "target": "WL-0006", "label": 1, "kind": "arabic_script", "dob": "1984-02-27", "nationality": "EG"}
+{"query": "طِارقِ أحمد اّلّشَامسي", "target": "WL-0006", "label": 1, "kind": "arabic_with_diacritics", "dob": "1984-02-27", "nationality": "EG"}
+{"query": "Tariq Al Shamsi", "target": "WL-0006", "label": 1, "kind": "middle_name_dropped", "dob": "1984-02-27", "nationality": "EG"}
+{"query": "Al Shamsi Tariq Ahmad", "target": "WL-0006", "label": 1, "kind": "reordered", "dob": "1984-02-27", "nationality": "EG"}
+{"query": "Tariq Ahmad Al SShamsi", "target": "WL-0006", "label": 1, "kind": "typo", "dob": "1984-02-27", "nationality": "EG"}
+{"query": "Sheikh Tariq Ahmad Al Shamsi", "target": "WL-0006", "label": 1, "kind": "honorific", "dob": "1984-02-27", "nationality": "EG"}
+{"query": "Tariq الشامسي", "target": "WL-0006", "label": 1, "kind": "mixed_script", "dob": "1984-02-27", "nationality": "EG"}
+{"query": "Salma Huda Al Shamsi", "target": "WL-0007", "label": 1, "kind": "spelling_variant", "dob": "1979-11-12", "nationality": "AE"}
+{"query": "سلمى هدى الشامسي", "target": "WL-0007", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "سلمى هدَىِ َالشامسّي", "target": "WL-0007", "label": 1, "kind": "arabic_with_diacritics", "dob": "1979-11-12", "nationality": "AE"}
+{"query": "Salma Al-Shamsy", "target": "WL-0007", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Al Shamsi Salma Huda", "target": "WL-0007", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Salma Hua Al Shamsi", "target": "WL-0007", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Salma Huda Al Shamsi", "target": "WL-0007", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Salma الشامسي", "target": "WL-0007", "label": 1, "kind": "mixed_script", "dob": "1979-11-12", "nationality": "AE"}
+{"query": "Yousuf Noura Al-Nuaimy", "target": "WL-0008", "label": 1, "kind": "spelling_variant", "dob": "1970-07-13", "nationality": "MM"}
+{"query": "يوسف نورة النعيمي", "target": "WL-0008", "label": 1, "kind": "arabic_script", "dob": "1970-07-13", "nationality": "MM"}
+{"query": "يّوِسفَ نَوَرةّ النعيمِي", "target": "WL-0008", "label": 1, "kind": "arabic_with_diacritics", "dob": "1970-07-13", "nationality": "MM"}
+{"query": "Yousef Al Naimi", "target": "WL-0008", "label": 1, "kind": "middle_name_dropped", "dob": "1970-07-13", "nationality": "MM"}
+{"query": "Al Nuaimi Yusuf Noura", "target": "WL-0008", "label": 1, "kind": "reordered", "dob": "1970-07-13", "nationality": "MM"}
+{"query": "Yuusuf Noura Al Nuaimi", "target": "WL-0008", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Yusuf Noura Al Nuaimi", "target": "WL-0008", "label": 1, "kind": "honorific", "dob": "1970-07-13", "nationality": "MM"}
+{"query": "Yusuf النعيمي", "target": "WL-0008", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Naser Majid Jaber", "target": "WL-0009", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "ناصر ماجد جابر", "target": "WL-0009", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "ناصر ماِجدّ ُجابر", "target": "WL-0009", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Nasir Jaber", "target": "WL-0009", "label": 1, "kind": "middle_name_dropped", "dob": "1977-11-13", "nationality": "SY"}
+{"query": "Jaber Nasser Majid", "target": "WL-0009", "label": 1, "kind": "reordered", "dob": "1977-11-13", "nationality": "SY"}
+{"query": "Nasser Majid Jabber", "target": "WL-0009", "label": 1, "kind": "typo", "dob": "1977-11-13", "nationality": "SY"}
+{"query": "Sheikh Nasser Majid Jaber", "target": "WL-0009", "label": 1, "kind": "honorific", "dob": "1977-11-13", "nationality": "SY"}
+{"query": "Nasser جابر", "target": "WL-0009", "label": 1, "kind": "mixed_script", "dob": "1977-11-13", "nationality": "SY"}
+{"query": "Yusuf Khaled Khoury", "target": "WL-0010", "label": 1, "kind": "spelling_variant", "dob": "1973-01-05", "nationality": "IR"}
+{"query": "يوسف خالد خوري", "target": "WL-0010", "label": 1, "kind": "arabic_script", "dob": "1973-01-05", "nationality": "IR"}
+{"query": "يّوَسف خالدَ خوري", "target": "WL-0010", "label": 1, "kind": "arabic_with_diacritics", "dob": "1973-01-05", "nationality": "IR"}
+{"query": "Yusuf Khuri", "target": "WL-0010", "label": 1, "kind": "middle_name_dropped", "dob": "1973-01-05", "nationality": "IR"}
+{"query": "Khoury Yusuf Khalid", "target": "WL-0010", "label": 1, "kind": "reordered", "dob": "1973-01-05", "nationality": "IR"}
+{"query": "Yusuf Khalid Khourry", "target": "WL-0010", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Yusuf Khalid Khoury", "target": "WL-0010", "label": 1, "kind": "honorific", "dob": "1973-01-05", "nationality": "IR"}
+{"query": "Yusuf خوري", "target": "WL-0010", "label": 1, "kind": "mixed_script", "dob": "1973-01-05", "nationality": "IR"}
+{"query": "Noura Maryam Darweesh", "target": "WL-0011", "label": 1, "kind": "spelling_variant", "dob": "1980-02-16", "nationality": "PH"}
+{"query": "نورة مريم درويش", "target": "WL-0011", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "نورة مريُم درّوّيشَ", "target": "WL-0011", "label": 1, "kind": "arabic_with_diacritics", "dob": "1980-02-16", "nationality": "PH"}
+{"query": "Nora Darweesh", "target": "WL-0011", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Darwish Noura Maryam", "target": "WL-0011", "label": 1, "kind": "reordered", "dob": "1980-02-16", "nationality": "PH"}
+{"query": "Noura Maryam Darwiish", "target": "WL-0011", "label": 1, "kind": "typo", "dob": "1980-02-16", "nationality": "PH"}
+{"query": "Sheikh Noura Maryam Darwish", "target": "WL-0011", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Noura درويش", "target": "WL-0011", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Ali Hassan Barakat", "target": "WL-0012", "label": 1, "kind": "spelling_variant", "dob": "1991-03-18", "nationality": "JO"}
+{"query": "علي حسن بركات", "target": "WL-0012", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "عليّ ِحّسنّ بَركات", "target": "WL-0012", "label": 1, "kind": "arabic_with_diacritics", "dob": "1991-03-18", "nationality": "JO"}
+{"query": "Ali Barakat", "target": "WL-0012", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Barakat Ali Hasan", "target": "WL-0012", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Ali Hasan Barakt", "target": "WL-0012", "label": 1, "kind": "typo", "dob": "1991-03-18", "nationality": "JO"}
+{"query": "Sheikh Ali Hasan Barakat", "target": "WL-0012", "label": 1, "kind": "honorific", "dob": "1991-03-18", "nationality": "JO"}
+{"query": "Ali بركات", "target": "WL-0012", "label": 1, "kind": "mixed_script", "dob": "1991-03-18", "nationality": "JO"}
+{"query": "Ali Hasan Farouk", "target": "WL-0013", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "علي حسن فاروق", "target": "WL-0013", "label": 1, "kind": "arabic_script", "dob": "1962-08-15", "nationality": "MM"}
+{"query": "عَلي حَسِنّ فاِروقّ", "target": "WL-0013", "label": 1, "kind": "arabic_with_diacritics", "dob": "1962-08-15", "nationality": "MM"}
+{"query": "Ali Farouk", "target": "WL-0013", "label": 1, "kind": "middle_name_dropped", "dob": "1962-08-15", "nationality": "MM"}
+{"query": "Farouk Ali Hasan", "target": "WL-0013", "label": 1, "kind": "reordered", "dob": "1962-08-15", "nationality": "MM"}
+{"query": "Ali HasanFarouk", "target": "WL-0013", "label": 1, "kind": "typo", "dob": "1962-08-15", "nationality": "MM"}
+{"query": "Sheikh Ali Hasan Farouk", "target": "WL-0013", "label": 1, "kind": "honorific", "dob": "1962-08-15", "nationality": "MM"}
+{"query": "Ali فاروق", "target": "WL-0013", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Ali Khaled Al-Nuaimy", "target": "WL-0014", "label": 1, "kind": "spelling_variant", "dob": "1956-04-17", "nationality": "RU"}
+{"query": "علي خالد النعيمي", "target": "WL-0014", "label": 1, "kind": "arabic_script", "dob": "1956-04-17", "nationality": "RU"}
+{"query": "علي خِالدّ اِلنعُيّمُي", "target": "WL-0014", "label": 1, "kind": "arabic_with_diacritics", "dob": "1956-04-17", "nationality": "RU"}
+{"query": "Ali Al Naimi", "target": "WL-0014", "label": 1, "kind": "middle_name_dropped", "dob": "1956-04-17", "nationality": "RU"}
+{"query": "Al Nuaimi Ali Khalid", "target": "WL-0014", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Ali Khalid  Al Nuaimi", "target": "WL-0014", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Ali Khalid Al Nuaimi", "target": "WL-0014", "label": 1, "kind": "honorific", "dob": "1956-04-17", "nationality": "RU"}
+{"query": "Ali النعيمي", "target": "WL-0014", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Fatma Rashid Al-Shamsy", "target": "WL-0015", "label": 1, "kind": "spelling_variant", "dob": "1969-09-18", "nationality": "SY"}
+{"query": "فاطمة راشد الشامسي", "target": "WL-0015", "label": 1, "kind": "arabic_script", "dob": "1969-09-18", "nationality": "SY"}
+{"query": "فَاطِمِة راشّد ِالشامُسي", "target": "WL-0015", "label": 1, "kind": "arabic_with_diacritics", "dob": "1969-09-18", "nationality": "SY"}
+{"query": "Fatma Alshamsi", "target": "WL-0015", "label": 1, "kind": "middle_name_dropped", "dob": "1969-09-18", "nationality": "SY"}
+{"query": "Al Shamsi Fatima Rashid", "target": "WL-0015", "label": 1, "kind": "reordered", "dob": "1969-09-18", "nationality": "SY"}
+{"query": "Fatimaa Rashid Al Shamsi", "target": "WL-0015", "label": 1, "kind": "typo", "dob": "1969-09-18", "nationality": "SY"}
+{"query": "Sheikh Fatima Rashid Al Shamsi", "target": "WL-0015", "label": 1, "kind": "honorific", "dob": "1969-09-18", "nationality": "SY"}
+{"query": "Fatima الشامسي", "target": "WL-0015", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Noura Hassan Khouri", "target": "WL-0016", "label": 1, "kind": "spelling_variant", "dob": "1977-12-01", "nationality": "AE"}
+{"query": "نورة حسن خوري", "target": "WL-0016", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "نورة حسنّ ُخوُري", "target": "WL-0016", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Nora Khoury", "target": "WL-0016", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Khoury Noura Hasan", "target": "WL-0016", "label": 1, "kind": "reordered", "dob": "1977-12-01", "nationality": "AE"}
+{"query": "Noura Haasan Khoury", "target": "WL-0016", "label": 1, "kind": "typo", "dob": "1977-12-01", "nationality": "AE"}
+{"query": "Sheikh Noura Hasan Khoury", "target": "WL-0016", "label": 1, "kind": "honorific", "dob": "1977-12-01", "nationality": "AE"}
+{"query": "Noura خوري", "target": "WL-0016", "label": 1, "kind": "mixed_script", "dob": "1977-12-01", "nationality": "AE"}
+{"query": "Said Hasan Qureshi", "target": "WL-0017", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "سعيد حسن قريشي", "target": "WL-0017", "label": 1, "kind": "arabic_script", "dob": "1969-08-07", "nationality": "GB"}
+{"query": "سُعيدِ حسنَ قريشي", "target": "WL-0017", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Said Qureshi", "target": "WL-0017", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Qureshi Saeed Hasan", "target": "WL-0017", "label": 1, "kind": "reordered", "dob": "1969-08-07", "nationality": "GB"}
+{"query": "Saeed Hasan Qurehi", "target": "WL-0017", "label": 1, "kind": "typo", "dob": "1969-08-07", "nationality": "GB"}
+{"query": "Sheikh Saeed Hasan Qureshi", "target": "WL-0017", "label": 1, "kind": "honorific", "dob": "1969-08-07", "nationality": "GB"}
+{"query": "Saeed قريشي", "target": "WL-0017", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Noura Mohd Osman", "target": "WL-0018", "label": 1, "kind": "spelling_variant", "dob": "1979-12-25", "nationality": "IN"}
+{"query": "نورة محمد عثمان", "target": "WL-0018", "label": 1, "kind": "arabic_script", "dob": "1979-12-25", "nationality": "IN"}
+{"query": "نورة َمحمد عَثمِاّن", "target": "WL-0018", "label": 1, "kind": "arabic_with_diacritics", "dob": "1979-12-25", "nationality": "IN"}
+{"query": "Noura Othman", "target": "WL-0018", "label": 1, "kind": "middle_name_dropped", "dob": "1979-12-25", "nationality": "IN"}
+{"query": "Othman Noura Muhammad", "target": "WL-0018", "label": 1, "kind": "reordered", "dob": "1979-12-25", "nationality": "IN"}
+{"query": "Nura Muhammad Othman", "target": "WL-0018", "label": 1, "kind": "typo", "dob": "1979-12-25", "nationality": "IN"}
+{"query": "Sheikh Noura Muhammad Othman", "target": "WL-0018", "label": 1, "kind": "honorific", "dob": "1979-12-25", "nationality": "IN"}
+{"query": "Noura عثمان", "target": "WL-0018", "label": 1, "kind": "mixed_script", "dob": "1979-12-25", "nationality": "IN"}
+{"query": "Tariq Layla Darweesh", "target": "WL-0019", "label": 1, "kind": "spelling_variant", "dob": "1965-03-01", "nationality": "LB"}
+{"query": "طارق ليلى درويش", "target": "WL-0019", "label": 1, "kind": "arabic_script", "dob": "1965-03-01", "nationality": "LB"}
+{"query": "طَاَرقُ ّليَلىَ دّرويش", "target": "WL-0019", "label": 1, "kind": "arabic_with_diacritics", "dob": "1965-03-01", "nationality": "LB"}
+{"query": "Tariq Darweesh", "target": "WL-0019", "label": 1, "kind": "middle_name_dropped", "dob": "1965-03-01", "nationality": "LB"}
+{"query": "Darwish Tariq Layla", "target": "WL-0019", "label": 1, "kind": "reordered", "dob": "1965-03-01", "nationality": "LB"}
+{"query": "Tariq Layla arwish", "target": "WL-0019", "label": 1, "kind": "typo", "dob": "1965-03-01", "nationality": "LB"}
+{"query": "Sheikh Tariq Layla Darwish", "target": "WL-0019", "label": 1, "kind": "honorific", "dob": "1965-03-01", "nationality": "LB"}
+{"query": "Tariq درويش", "target": "WL-0019", "label": 1, "kind": "mixed_script", "dob": "1965-03-01", "nationality": "LB"}
+{"query": "Layla Khalid Othman", "target": "WL-0020", "label": 1, "kind": "spelling_variant", "dob": "1961-09-24", "nationality": "LB"}
+{"query": "ليلى خالد عثمان", "target": "WL-0020", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "ليلّى خالد عثمّاّن", "target": "WL-0020", "label": 1, "kind": "arabic_with_diacritics", "dob": "1961-09-24", "nationality": "LB"}
+{"query": "Layla Othman", "target": "WL-0020", "label": 1, "kind": "middle_name_dropped", "dob": "1961-09-24", "nationality": "LB"}
+{"query": "Othman Layla Khalid", "target": "WL-0020", "label": 1, "kind": "reordered", "dob": "1961-09-24", "nationality": "LB"}
+{"query": "Layla Khalid OOthman", "target": "WL-0020", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Layla Khalid Othman", "target": "WL-0020", "label": 1, "kind": "honorific", "dob": "1961-09-24", "nationality": "LB"}
+{"query": "Layla عثمان", "target": "WL-0020", "label": 1, "kind": "mixed_script", "dob": "1961-09-24", "nationality": "LB"}
+{"query": "Hasan Muhammed Nasr", "target": "WL-0021", "label": 1, "kind": "spelling_variant", "dob": "1963-01-24", "nationality": "RU"}
+{"query": "حسن محمد نصر", "target": "WL-0021", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "حسُن ّمَحمد َنصر", "target": "WL-0021", "label": 1, "kind": "arabic_with_diacritics", "dob": "1963-01-24", "nationality": "RU"}
+{"query": "Hassan Nasr", "target": "WL-0021", "label": 1, "kind": "middle_name_dropped", "dob": "1963-01-24", "nationality": "RU"}
+{"query": "Nasr Hasan Muhammad", "target": "WL-0021", "label": 1, "kind": "reordered", "dob": "1963-01-24", "nationality": "RU"}
+{"query": "Hsan Muhammad Nasr", "target": "WL-0021", "label": 1, "kind": "typo", "dob": "1963-01-24", "nationality": "RU"}
+{"query": "Sheikh Hasan Muhammad Nasr", "target": "WL-0021", "label": 1, "kind": "honorific", "dob": "1963-01-24", "nationality": "RU"}
+{"query": "Hasan نصر", "target": "WL-0021", "label": 1, "kind": "mixed_script", "dob": "1963-01-24", "nationality": "RU"}
+{"query": "Fatima Khalid Jaber", "target": "WL-0022", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "فاطمة خالد جابر", "target": "WL-0022", "label": 1, "kind": "arabic_script", "dob": "1964-03-05", "nationality": "MM"}
+{"query": "فاُطُمّة خالد جَابرِ", "target": "WL-0022", "label": 1, "kind": "arabic_with_diacritics", "dob": "1964-03-05", "nationality": "MM"}
+{"query": "Fatima Jaber", "target": "WL-0022", "label": 1, "kind": "middle_name_dropped", "dob": "1964-03-05", "nationality": "MM"}
+{"query": "Jaber Fatima Khalid", "target": "WL-0022", "label": 1, "kind": "reordered", "dob": "1964-03-05", "nationality": "MM"}
+{"query": "Fatima Khalid Jber", "target": "WL-0022", "label": 1, "kind": "typo", "dob": "1964-03-05", "nationality": "MM"}
+{"query": "Sheikh Fatima Khalid Jaber", "target": "WL-0022", "label": 1, "kind": "honorific", "dob": "1964-03-05", "nationality": "MM"}
+{"query": "Fatima جابر", "target": "WL-0022", "label": 1, "kind": "mixed_script", "dob": "1964-03-05", "nationality": "MM"}
+{"query": "Aisha Ahmed Darweesh", "target": "WL-0023", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "عائشة أحمد درويش", "target": "WL-0023", "label": 1, "kind": "arabic_script", "dob": "1972-01-25", "nationality": "JO"}
+{"query": "عاَئشةِ َأحمد ُدَرويُش", "target": "WL-0023", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Aysha Darwish", "target": "WL-0023", "label": 1, "kind": "middle_name_dropped", "dob": "1972-01-25", "nationality": "JO"}
+{"query": "Darwish Aisha Ahmad", "target": "WL-0023", "label": 1, "kind": "reordered", "dob": "1972-01-25", "nationality": "JO"}
+{"query": "Aisha Ahhmad Darwish", "target": "WL-0023", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Aisha Ahmad Darwish", "target": "WL-0023", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Aisha درويش", "target": "WL-0023", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Ayesha Mohammad Al-Shamsy", "target": "WL-0024", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "عائشة محمد الشامسي", "target": "WL-0024", "label": 1, "kind": "arabic_script", "dob": "1967-12-09", "nationality": "KP"}
+{"query": "عائَشَةُ َمحُمّدّ الَشامسّي", "target": "WL-0024", "label": 1, "kind": "arabic_with_diacritics", "dob": "1967-12-09", "nationality": "KP"}
+{"query": "Aysha Al-Shamsy", "target": "WL-0024", "label": 1, "kind": "middle_name_dropped", "dob": "1967-12-09", "nationality": "KP"}
+{"query": "Al Shamsi Aisha Muhammad", "target": "WL-0024", "label": 1, "kind": "reordered", "dob": "1967-12-09", "nationality": "KP"}
+{"query": "Aisha Muhammadd Al Shamsi", "target": "WL-0024", "label": 1, "kind": "typo", "dob": "1967-12-09", "nationality": "KP"}
+{"query": "Sheikh Aisha Muhammad Al Shamsi", "target": "WL-0024", "label": 1, "kind": "honorific", "dob": "1967-12-09", "nationality": "KP"}
+{"query": "Aisha الشامسي", "target": "WL-0024", "label": 1, "kind": "mixed_script", "dob": "1967-12-09", "nationality": "KP"}
+{"query": "Fatma Ebrahim Rahman", "target": "WL-0025", "label": 1, "kind": "spelling_variant", "dob": "1980-08-11", "nationality": "EG"}
+{"query": "فاطمة إبراهيم الرحمن", "target": "WL-0025", "label": 1, "kind": "arabic_script", "dob": "1980-08-11", "nationality": "EG"}
+{"query": "فاطمُة إُبرَاّهيم الِرحمَن", "target": "WL-0025", "label": 1, "kind": "arabic_with_diacritics", "dob": "1980-08-11", "nationality": "EG"}
+{"query": "Fatma Rahman", "target": "WL-0025", "label": 1, "kind": "middle_name_dropped", "dob": "1980-08-11", "nationality": "EG"}
+{"query": "Rahman Fatima Ibrahim", "target": "WL-0025", "label": 1, "kind": "reordered", "dob": "1980-08-11", "nationality": "EG"}
+{"query": "Fatima Ibrahim Rhman", "target": "WL-0025", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Fatima Ibrahim Rahman", "target": "WL-0025", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Fatima الرحمن", "target": "WL-0025", "label": 1, "kind": "mixed_script", "dob": "1980-08-11", "nationality": "EG"}
+{"query": "Tariq Ali Hadad", "target": "WL-0026", "label": 1, "kind": "spelling_variant", "dob": "1963-08-08", "nationality": "JO"}
+{"query": "طارق علي حداد", "target": "WL-0026", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "طاُرّق علي حداد", "target": "WL-0026", "label": 1, "kind": "arabic_with_diacritics", "dob": "1963-08-08", "nationality": "JO"}
+{"query": "Tariq Hadad", "target": "WL-0026", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Haddad Tariq Ali", "target": "WL-0026", "label": 1, "kind": "reordered", "dob": "1963-08-08", "nationality": "JO"}
+{"query": "Tarq Ali Haddad", "target": "WL-0026", "label": 1, "kind": "typo", "dob": "1963-08-08", "nationality": "JO"}
+{"query": "Sheikh Tariq Ali Haddad", "target": "WL-0026", "label": 1, "kind": "honorific", "dob": "1963-08-08", "nationality": "JO"}
+{"query": "Tariq حداد", "target": "WL-0026", "label": 1, "kind": "mixed_script", "dob": "1963-08-08", "nationality": "JO"}
+{"query": "Yousef Huda Khoury", "target": "WL-0027", "label": 1, "kind": "spelling_variant", "dob": "1981-04-12", "nationality": "GB"}
+{"query": "يوسف هدى خوري", "target": "WL-0027", "label": 1, "kind": "arabic_script", "dob": "1981-04-12", "nationality": "GB"}
+{"query": "يوسف هدَى ِخَوري", "target": "WL-0027", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Yousuf Khoury", "target": "WL-0027", "label": 1, "kind": "middle_name_dropped", "dob": "1981-04-12", "nationality": "GB"}
+{"query": "Khoury Yusuf Huda", "target": "WL-0027", "label": 1, "kind": "reordered", "dob": "1981-04-12", "nationality": "GB"}
+{"query": "Yusuf  Huda Khoury", "target": "WL-0027", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Yusuf Huda Khoury", "target": "WL-0027", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Yusuf خوري", "target": "WL-0027", "label": 1, "kind": "mixed_script", "dob": "1981-04-12", "nationality": "GB"}
+{"query": "Mohammad Hamad Jaber", "target": "WL-0028", "label": 1, "kind": "spelling_variant", "dob": "1988-10-10", "nationality": "SY"}
+{"query": "محمد حمد جابر", "target": "WL-0028", "label": 1, "kind": "arabic_script", "dob": "1988-10-10", "nationality": "SY"}
+{"query": "مِحمد حمدَ جاِبر", "target": "WL-0028", "label": 1, "kind": "arabic_with_diacritics", "dob": "1988-10-10", "nationality": "SY"}
+{"query": "Mohammad Jaber", "target": "WL-0028", "label": 1, "kind": "middle_name_dropped", "dob": "1988-10-10", "nationality": "SY"}
+{"query": "Jaber Muhammad Hamad", "target": "WL-0028", "label": 1, "kind": "reordered", "dob": "1988-10-10", "nationality": "SY"}
+{"query": "Muhammad Hamad Jber", "target": "WL-0028", "label": 1, "kind": "typo", "dob": "1988-10-10", "nationality": "SY"}
+{"query": "Sheikh Muhammad Hamad Jaber", "target": "WL-0028", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Muhammad جابر", "target": "WL-0028", "label": 1, "kind": "mixed_script", "dob": "1988-10-10", "nationality": "SY"}
+{"query": "Ebrahim Omar Alshamsi", "target": "WL-0029", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "إبراهيم عمر الشامسي", "target": "WL-0029", "label": 1, "kind": "arabic_script", "dob": "1982-11-27", "nationality": "IQ"}
+{"query": "إّبُراهُيُم عّمَرُ ِاِلشامِسي", "target": "WL-0029", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Ibrahim Al Shamsi", "target": "WL-0029", "label": 1, "kind": "middle_name_dropped", "dob": "1982-11-27", "nationality": "IQ"}
+{"query": "Al Shamsi Ibrahim Umar", "target": "WL-0029", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Ibrahim Umar  Al Shamsi", "target": "WL-0029", "label": 1, "kind": "typo", "dob": "1982-11-27", "nationality": "IQ"}
+{"query": "Sheikh Ibrahim Umar Al Shamsi", "target": "WL-0029", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Ibrahim الشامسي", "target": "WL-0029", "label": 1, "kind": "mixed_script", "dob": "1982-11-27", "nationality": "IQ"}
+{"query": "Ayesha Fatma Uthman", "target": "WL-0030", "label": 1, "kind": "spelling_variant", "dob": "1966-07-03", "nationality": "IQ"}
+{"query": "عائشة فاطمة عثمان", "target": "WL-0030", "label": 1, "kind": "arabic_script", "dob": "1966-07-03", "nationality": "IQ"}
+{"query": "عائشةِ فاُطمةَ عثَمَان", "target": "WL-0030", "label": 1, "kind": "arabic_with_diacritics", "dob": "1966-07-03", "nationality": "IQ"}
+{"query": "Aysha Osman", "target": "WL-0030", "label": 1, "kind": "middle_name_dropped", "dob": "1966-07-03", "nationality": "IQ"}
+{"query": "Othman Aisha Fatima", "target": "WL-0030", "label": 1, "kind": "reordered", "dob": "1966-07-03", "nationality": "IQ"}
+{"query": "Aisha Fatima Othmaan", "target": "WL-0030", "label": 1, "kind": "typo", "dob": "1966-07-03", "nationality": "IQ"}
+{"query": "Sheikh Aisha Fatima Othman", "target": "WL-0030", "label": 1, "kind": "honorific", "dob": "1966-07-03", "nationality": "IQ"}
+{"query": "Aisha عثمان", "target": "WL-0030", "label": 1, "kind": "mixed_script", "dob": "1966-07-03", "nationality": "IQ"}
+{"query": "Saied Ali Khuri", "target": "WL-0031", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "سعيد علي خوري", "target": "WL-0031", "label": 1, "kind": "arabic_script", "dob": "1990-07-09", "nationality": "LB"}
+{"query": "سعيد علِيَ خِورّي", "target": "WL-0031", "label": 1, "kind": "arabic_with_diacritics", "dob": "1990-07-09", "nationality": "LB"}
+{"query": "Said Khoury", "target": "WL-0031", "label": 1, "kind": "middle_name_dropped", "dob": "1990-07-09", "nationality": "LB"}
+{"query": "Khoury Saeed Ali", "target": "WL-0031", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Saeed Al Khoury", "target": "WL-0031", "label": 1, "kind": "typo", "dob": "1990-07-09", "nationality": "LB"}
+{"query": "Sheikh Saeed Ali Khoury", "target": "WL-0031", "label": 1, "kind": "honorific", "dob": "1990-07-09", "nationality": "LB"}
+{"query": "Saeed خوري", "target": "WL-0031", "label": 1, "kind": "mixed_script", "dob": "1990-07-09", "nationality": "LB"}
+{"query": "Omar Yusuf Nasr", "target": "WL-0032", "label": 1, "kind": "spelling_variant", "dob": "1973-08-17", "nationality": "PK"}
+{"query": "عمر يوسف نصر", "target": "WL-0032", "label": 1, "kind": "arabic_script", "dob": "1973-08-17", "nationality": "PK"}
+{"query": "عمر يّوسف نصر", "target": "WL-0032", "label": 1, "kind": "arabic_with_diacritics", "dob": "1973-08-17", "nationality": "PK"}
+{"query": "Omar Nasr", "target": "WL-0032", "label": 1, "kind": "middle_name_dropped", "dob": "1973-08-17", "nationality": "PK"}
+{"query": "Nasr Umar Yusuf", "target": "WL-0032", "label": 1, "kind": "reordered", "dob": "1973-08-17", "nationality": "PK"}
+{"query": "Umar Yuusuf Nasr", "target": "WL-0032", "label": 1, "kind": "typo", "dob": "1973-08-17", "nationality": "PK"}
+{"query": "Sheikh Umar Yusuf Nasr", "target": "WL-0032", "label": 1, "kind": "honorific", "dob": "1973-08-17", "nationality": "PK"}
+{"query": "Umar نصر", "target": "WL-0032", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Mohammed Said Al-Mansoori", "target": "WL-0033", "label": 1, "kind": "spelling_variant", "dob": "1987-08-08", "nationality": "KP"}
+{"query": "محمد سعيد المنصوري", "target": "WL-0033", "label": 1, "kind": "arabic_script", "dob": "1987-08-08", "nationality": "KP"}
+{"query": "مَحِمد سعيد ّاُلمُنُصوَري", "target": "WL-0033", "label": 1, "kind": "arabic_with_diacritics", "dob": "1987-08-08", "nationality": "KP"}
+{"query": "Mohammad Al Mansouri", "target": "WL-0033", "label": 1, "kind": "middle_name_dropped", "dob": "1987-08-08", "nationality": "KP"}
+{"query": "Al Mansouri Muhammad Saeed", "target": "WL-0033", "label": 1, "kind": "reordered", "dob": "1987-08-08", "nationality": "KP"}
+{"query": "Muhammad Saeed A Mansouri", "target": "WL-0033", "label": 1, "kind": "typo", "dob": "1987-08-08", "nationality": "KP"}
+{"query": "Sheikh Muhammad Saeed Al Mansouri", "target": "WL-0033", "label": 1, "kind": "honorific", "dob": "1987-08-08", "nationality": "KP"}
+{"query": "Muhammad المنصوري", "target": "WL-0033", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Huda Faisal Jaber", "target": "WL-0034", "label": 1, "kind": "spelling_variant", "dob": "1995-03-13", "nationality": "RU"}
+{"query": "هدى فيصل جابر", "target": "WL-0034", "label": 1, "kind": "arabic_script", "dob": "1995-03-13", "nationality": "RU"}
+{"query": "هدى فيصلِ جاِبّر", "target": "WL-0034", "label": 1, "kind": "arabic_with_diacritics", "dob": "1995-03-13", "nationality": "RU"}
+{"query": "Huda Jaber", "target": "WL-0034", "label": 1, "kind": "middle_name_dropped", "dob": "1995-03-13", "nationality": "RU"}
+{"query": "Jaber Huda Faisal", "target": "WL-0034", "label": 1, "kind": "reordered", "dob": "1995-03-13", "nationality": "RU"}
+{"query": "Huda Faisal Jabeer", "target": "WL-0034", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Huda Faisal Jaber", "target": "WL-0034", "label": 1, "kind": "honorific", "dob": "1995-03-13", "nationality": "RU"}
+{"query": "Huda جابر", "target": "WL-0034", "label": 1, "kind": "mixed_script", "dob": "1995-03-13", "nationality": "RU"}
+{"query": "Mohammad Ali Nasr", "target": "WL-0035", "label": 1, "kind": "spelling_variant", "dob": "1987-11-10", "nationality": "SY"}
+{"query": "محمد علي نصر", "target": "WL-0035", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "محمد علي نصر", "target": "WL-0035", "label": 1, "kind": "arabic_with_diacritics", "dob": "1987-11-10", "nationality": "SY"}
+{"query": "Mohd Nasr", "target": "WL-0035", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Nasr Muhammad Ali", "target": "WL-0035", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Muhammad Ali Nsr", "target": "WL-0035", "label": 1, "kind": "typo", "dob": "1987-11-10", "nationality": "SY"}
+{"query": "Sheikh Muhammad Ali Nasr", "target": "WL-0035", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Muhammad نصر", "target": "WL-0035", "label": 1, "kind": "mixed_script", "dob": "1987-11-10", "nationality": "SY"}
+{"query": "Ahmad Nasir Al Marri", "target": "WL-0036", "label": 1, "kind": "spelling_variant", "dob": "1976-09-11", "nationality": "SY"}
+{"query": "أحمد ناصر المري", "target": "WL-0036", "label": 1, "kind": "arabic_script", "dob": "1976-09-11", "nationality": "SY"}
+{"query": "أحمَدِ نِاصِر ِالمُرِي", "target": "WL-0036", "label": 1, "kind": "arabic_with_diacritics", "dob": "1976-09-11", "nationality": "SY"}
+{"query": "Ahmad Al Marri", "target": "WL-0036", "label": 1, "kind": "middle_name_dropped", "dob": "1976-09-11", "nationality": "SY"}
+{"query": "Al Marri Ahmad Nasser", "target": "WL-0036", "label": 1, "kind": "reordered", "dob": "1976-09-11", "nationality": "SY"}
+{"query": "Ahmad Nasser Al Mari", "target": "WL-0036", "label": 1, "kind": "typo", "dob": "1976-09-11", "nationality": "SY"}
+{"query": "Sheikh Ahmad Nasser Al Marri", "target": "WL-0036", "label": 1, "kind": "honorific", "dob": "1976-09-11", "nationality": "SY"}
+{"query": "Ahmad المري", "target": "WL-0036", "label": 1, "kind": "mixed_script", "dob": "1976-09-11", "nationality": "SY"}
+{"query": "Hassan Sultan Al Marri", "target": "WL-0037", "label": 1, "kind": "spelling_variant", "dob": "1987-11-07", "nationality": "SY"}
+{"query": "حسن سلطان المري", "target": "WL-0037", "label": 1, "kind": "arabic_script", "dob": "1987-11-07", "nationality": "SY"}
+{"query": "حسن سلطّان اُلمري", "target": "WL-0037", "label": 1, "kind": "arabic_with_diacritics", "dob": "1987-11-07", "nationality": "SY"}
+{"query": "Hassan Al Marri", "target": "WL-0037", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Al Marri Hasan Sultan", "target": "WL-0037", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Hasan Sultan Al arri", "target": "WL-0037", "label": 1, "kind": "typo", "dob": "1987-11-07", "nationality": "SY"}
+{"query": "Sheikh Hasan Sultan Al Marri", "target": "WL-0037", "label": 1, "kind": "honorific", "dob": "1987-11-07", "nationality": "SY"}
+{"query": "Hasan المري", "target": "WL-0037", "label": 1, "kind": "mixed_script", "dob": "1987-11-07", "nationality": "SY"}
+{"query": "Ali Saied Al-Shamsy", "target": "WL-0038", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "علي سعيد الشامسي", "target": "WL-0038", "label": 1, "kind": "arabic_script", "dob": "1974-11-08", "nationality": "EG"}
+{"query": "علي َسعيد اِلشامُسي", "target": "WL-0038", "label": 1, "kind": "arabic_with_diacritics", "dob": "1974-11-08", "nationality": "EG"}
+{"query": "Ali Alshamsi", "target": "WL-0038", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Al Shamsi Ali Saeed", "target": "WL-0038", "label": 1, "kind": "reordered", "dob": "1974-11-08", "nationality": "EG"}
+{"query": "Ali Saeed Al hamsi", "target": "WL-0038", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Ali Saeed Al Shamsi", "target": "WL-0038", "label": 1, "kind": "honorific", "dob": "1974-11-08", "nationality": "EG"}
+{"query": "Ali الشامسي", "target": "WL-0038", "label": 1, "kind": "mixed_script", "dob": "1974-11-08", "nationality": "EG"}
+{"query": "Huda Salma Farouk", "target": "WL-0039", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "هدى سلمى فاروق", "target": "WL-0039", "label": 1, "kind": "arabic_script", "dob": "1987-11-14", "nationality": "SY"}
+{"query": "هدى سِلمِىَ فاُرُوقِ", "target": "WL-0039", "label": 1, "kind": "arabic_with_diacritics", "dob": "1987-11-14", "nationality": "SY"}
+{"query": "Huda Farouk", "target": "WL-0039", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Farouk Huda Salma", "target": "WL-0039", "label": 1, "kind": "reordered", "dob": "1987-11-14", "nationality": "SY"}
+{"query": "Huda Salma Farok", "target": "WL-0039", "label": 1, "kind": "typo", "dob": "1987-11-14", "nationality": "SY"}
+{"query": "Sheikh Huda Salma Farouk", "target": "WL-0039", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Huda فاروق", "target": "WL-0039", "label": 1, "kind": "mixed_script", "dob": "1987-11-14", "nationality": "SY"}
+{"query": "Huda Maryam Khouri", "target": "WL-0040", "label": 1, "kind": "spelling_variant", "dob": "1979-08-18", "nationality": "SA"}
+{"query": "هدى مريم خوري", "target": "WL-0040", "label": 1, "kind": "arabic_script", "dob": "1979-08-18", "nationality": "SA"}
+{"query": "هدّى مريمِ خوُريُ", "target": "WL-0040", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Huda Khuri", "target": "WL-0040", "label": 1, "kind": "middle_name_dropped", "dob": "1979-08-18", "nationality": "SA"}
+{"query": "Khoury Huda Maryam", "target": "WL-0040", "label": 1, "kind": "reordered", "dob": "1979-08-18", "nationality": "SA"}
+{"query": "Huda Maryam houry", "target": "WL-0040", "label": 1, "kind": "typo", "dob": "1979-08-18", "nationality": "SA"}
+{"query": "Sheikh Huda Maryam Khoury", "target": "WL-0040", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Huda خوري", "target": "WL-0040", "label": 1, "kind": "mixed_script", "dob": "1979-08-18", "nationality": "SA"}
+{"query": "Layla Aysha Khouri", "target": "WL-0041", "label": 1, "kind": "spelling_variant", "dob": "1987-09-03", "nationality": "SY"}
+{"query": "ليلى عائشة خوري", "target": "WL-0041", "label": 1, "kind": "arabic_script", "dob": "1987-09-03", "nationality": "SY"}
+{"query": "لِيلىُ َعاَئشة خوريَ", "target": "WL-0041", "label": 1, "kind": "arabic_with_diacritics", "dob": "1987-09-03", "nationality": "SY"}
+{"query": "Layla Khouri", "target": "WL-0041", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Khoury Layla Aisha", "target": "WL-0041", "label": 1, "kind": "reordered", "dob": "1987-09-03", "nationality": "SY"}
+{"query": "Layla Aisha Khury", "target": "WL-0041", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Layla Aisha Khoury", "target": "WL-0041", "label": 1, "kind": "honorific", "dob": "1987-09-03", "nationality": "SY"}
+{"query": "Layla خوري", "target": "WL-0041", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Said Ali Nasr", "target": "WL-0042", "label": 1, "kind": "spelling_variant", "dob": "1959-08-22", "nationality": "YE"}
+{"query": "سعيد علي نصر", "target": "WL-0042", "label": 1, "kind": "arabic_script", "dob": "1959-08-22", "nationality": "YE"}
+{"query": "سعَيدّ عليُ َنصرّ", "target": "WL-0042", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Saied Nasr", "target": "WL-0042", "label": 1, "kind": "middle_name_dropped", "dob": "1959-08-22", "nationality": "YE"}
+{"query": "Nasr Saeed Ali", "target": "WL-0042", "label": 1, "kind": "reordered", "dob": "1959-08-22", "nationality": "YE"}
+{"query": "Saeed Ali Naasr", "target": "WL-0042", "label": 1, "kind": "typo", "dob": "1959-08-22", "nationality": "YE"}
+{"query": "Sheikh Saeed Ali Nasr", "target": "WL-0042", "label": 1, "kind": "honorific", "dob": "1959-08-22", "nationality": "YE"}
+{"query": "Saeed نصر", "target": "WL-0042", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Ali Nora Al Kasimi", "target": "WL-0043", "label": 1, "kind": "spelling_variant", "dob": "1985-01-16", "nationality": "IQ"}
+{"query": "علي نورة القاسمي", "target": "WL-0043", "label": 1, "kind": "arabic_script", "dob": "1985-01-16", "nationality": "IQ"}
+{"query": "علُي نِوّرُة اَلقّاسِمي", "target": "WL-0043", "label": 1, "kind": "arabic_with_diacritics", "dob": "1985-01-16", "nationality": "IQ"}
+{"query": "Ali Al-Qassimi", "target": "WL-0043", "label": 1, "kind": "middle_name_dropped", "dob": "1985-01-16", "nationality": "IQ"}
+{"query": "Al Qasimi Ali Noura", "target": "WL-0043", "label": 1, "kind": "reordered", "dob": "1985-01-16", "nationality": "IQ"}
+{"query": "Ali Nura Al Qasimi", "target": "WL-0043", "label": 1, "kind": "typo", "dob": "1985-01-16", "nationality": "IQ"}
+{"query": "Sheikh Ali Noura Al Qasimi", "target": "WL-0043", "label": 1, "kind": "honorific", "dob": "1985-01-16", "nationality": "IQ"}
+{"query": "Ali القاسمي", "target": "WL-0043", "label": 1, "kind": "mixed_script", "dob": "1985-01-16", "nationality": "IQ"}
+{"query": "Salma Hasan Othman", "target": "WL-0044", "label": 1, "kind": "spelling_variant", "dob": "1962-09-07", "nationality": "YE"}
+{"query": "سلمى حسن عثمان", "target": "WL-0044", "label": 1, "kind": "arabic_script", "dob": "1962-09-07", "nationality": "YE"}
+{"query": "سلمى حسنِ عثماِن", "target": "WL-0044", "label": 1, "kind": "arabic_with_diacritics", "dob": "1962-09-07", "nationality": "YE"}
+{"query": "Salma Osman", "target": "WL-0044", "label": 1, "kind": "middle_name_dropped", "dob": "1962-09-07", "nationality": "YE"}
+{"query": "Othman Salma Hasan", "target": "WL-0044", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Salma Hasn Othman", "target": "WL-0044", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Salma Hasan Othman", "target": "WL-0044", "label": 1, "kind": "honorific", "dob": "1962-09-07", "nationality": "YE"}
+{"query": "Salma عثمان", "target": "WL-0044", "label": 1, "kind": "mixed_script", "dob": "1962-09-07", "nationality": "YE"}
+{"query": "Muhammed Rashid Barakat", "target": "WL-0045", "label": 1, "kind": "spelling_variant", "dob": "1959-10-03", "nationality": "LB"}
+{"query": "محمد راشد بركات", "target": "WL-0045", "label": 1, "kind": "arabic_script", "dob": "1959-10-03", "nationality": "LB"}
+{"query": "مُحمد راشد بركات", "target": "WL-0045", "label": 1, "kind": "arabic_with_diacritics", "dob": "1959-10-03", "nationality": "LB"}
+{"query": "Muhammed Barakat", "target": "WL-0045", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Barakat Muhammad Rashid", "target": "WL-0045", "label": 1, "kind": "reordered", "dob": "1959-10-03", "nationality": "LB"}
+{"query": "Muhamad Rashid Barakat", "target": "WL-0045", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Muhammad Rashid Barakat", "target": "WL-0045", "label": 1, "kind": "honorific", "dob": "1959-10-03", "nationality": "LB"}
+{"query": "Muhammad بركات", "target": "WL-0045", "label": 1, "kind": "mixed_script", "dob": "1959-10-03", "nationality": "LB"}
+{"query": "Sultan Khalid Rahman", "target": "WL-0046", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "سلطان خالد الرحمن", "target": "WL-0046", "label": 1, "kind": "arabic_script", "dob": "1980-01-06", "nationality": "AE"}
+{"query": "سلطانَ خَاُلدُ الُرحمن", "target": "WL-0046", "label": 1, "kind": "arabic_with_diacritics", "dob": "1980-01-06", "nationality": "AE"}
+{"query": "Sultan Rahman", "target": "WL-0046", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Rahman Sultan Khalid", "target": "WL-0046", "label": 1, "kind": "reordered", "dob": "1980-01-06", "nationality": "AE"}
+{"query": "Sultan Khalid Rahmn", "target": "WL-0046", "label": 1, "kind": "typo", "dob": "1980-01-06", "nationality": "AE"}
+{"query": "Sheikh Sultan Khalid Rahman", "target": "WL-0046", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Sultan الرحمن", "target": "WL-0046", "label": 1, "kind": "mixed_script", "dob": "1980-01-06", "nationality": "AE"}
+{"query": "Majid Rashid Al Qasimi", "target": "WL-0047", "label": 1, "kind": "spelling_variant", "dob": "1955-06-25", "nationality": "GB"}
+{"query": "ماجد راشد القاسمي", "target": "WL-0047", "label": 1, "kind": "arabic_script", "dob": "1955-06-25", "nationality": "GB"}
+{"query": "ماِجد ّرِاشُد اِلقِاسمي", "target": "WL-0047", "label": 1, "kind": "arabic_with_diacritics", "dob": "1955-06-25", "nationality": "GB"}
+{"query": "Majid Al-Qassimi", "target": "WL-0047", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Al Qasimi Majid Rashid", "target": "WL-0047", "label": 1, "kind": "reordered", "dob": "1955-06-25", "nationality": "GB"}
+{"query": "Majid Rashid A Qasimi", "target": "WL-0047", "label": 1, "kind": "typo", "dob": "1955-06-25", "nationality": "GB"}
+{"query": "Sheikh Majid Rashid Al Qasimi", "target": "WL-0047", "label": 1, "kind": "honorific", "dob": "1955-06-25", "nationality": "GB"}
+{"query": "Majid القاسمي", "target": "WL-0047", "label": 1, "kind": "mixed_script", "dob": "1955-06-25", "nationality": "GB"}
+{"query": "Hasan Salma El Hashimi", "target": "WL-0048", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "حسن سلمى الهاشمي", "target": "WL-0048", "label": 1, "kind": "arabic_script", "dob": "1992-02-12", "nationality": "IR"}
+{"query": "حسن سلَمىُ الِهِاشِميّ", "target": "WL-0048", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Hassan Al-Hashemi", "target": "WL-0048", "label": 1, "kind": "middle_name_dropped", "dob": "1992-02-12", "nationality": "IR"}
+{"query": "Al Hashimi Hasan Salma", "target": "WL-0048", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Hasan Salma Al Hshimi", "target": "WL-0048", "label": 1, "kind": "typo", "dob": "1992-02-12", "nationality": "IR"}
+{"query": "Sheikh Hasan Salma Al Hashimi", "target": "WL-0048", "label": 1, "kind": "honorific", "dob": "1992-02-12", "nationality": "IR"}
+{"query": "Hasan الهاشمي", "target": "WL-0048", "label": 1, "kind": "mixed_script", "dob": "1992-02-12", "nationality": "IR"}
+{"query": "Saied Omar Almansouri", "target": "WL-0049", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "سعيد عمر المنصوري", "target": "WL-0049", "label": 1, "kind": "arabic_script", "dob": "1982-09-11", "nationality": "IN"}
+{"query": "سِعيد عمَر ِالمُنصورّيّ", "target": "WL-0049", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Said Almansouri", "target": "WL-0049", "label": 1, "kind": "middle_name_dropped", "dob": "1982-09-11", "nationality": "IN"}
+{"query": "Al Mansouri Saeed Umar", "target": "WL-0049", "label": 1, "kind": "reordered", "dob": "1982-09-11", "nationality": "IN"}
+{"query": "Saeed Umar Al Mannsouri", "target": "WL-0049", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Saeed Umar Al Mansouri", "target": "WL-0049", "label": 1, "kind": "honorific", "dob": "1982-09-11", "nationality": "IN"}
+{"query": "Saeed المنصوري", "target": "WL-0049", "label": 1, "kind": "mixed_script", "dob": "1982-09-11", "nationality": "IN"}
+{"query": "Muhammad Layla Farouk", "target": "WL-0050", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "محمد ليلى فاروق", "target": "WL-0050", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "محُمّدُ ليلى فاروّقِ", "target": "WL-0050", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Mohammad Farouk", "target": "WL-0050", "label": 1, "kind": "middle_name_dropped", "dob": "1983-10-25", "nationality": "LB"}
+{"query": "Farouk Muhammad Layla", "target": "WL-0050", "label": 1, "kind": "reordered", "dob": "1983-10-25", "nationality": "LB"}
+{"query": "Muhammad Layla Frouk", "target": "WL-0050", "label": 1, "kind": "typo", "dob": "1983-10-25", "nationality": "LB"}
+{"query": "Sheikh Muhammad Layla Farouk", "target": "WL-0050", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Muhammad فاروق", "target": "WL-0050", "label": 1, "kind": "mixed_script", "dob": "1983-10-25", "nationality": "LB"}
+{"query": "Faysal Ahmad Jaber", "target": "WL-0051", "label": 1, "kind": "spelling_variant", "dob": "1974-05-24", "nationality": "IQ"}
+{"query": "فيصل أحمد جابر", "target": "WL-0051", "label": 1, "kind": "arabic_script", "dob": "1974-05-24", "nationality": "IQ"}
+{"query": "فِيصلَ ّأحمد جَابِر", "target": "WL-0051", "label": 1, "kind": "arabic_with_diacritics", "dob": "1974-05-24", "nationality": "IQ"}
+{"query": "Faisal Jaber", "target": "WL-0051", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Jaber Faisal Ahmad", "target": "WL-0051", "label": 1, "kind": "reordered", "dob": "1974-05-24", "nationality": "IQ"}
+{"query": "Faisal Ahmmad Jaber", "target": "WL-0051", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Faisal Ahmad Jaber", "target": "WL-0051", "label": 1, "kind": "honorific", "dob": "1974-05-24", "nationality": "IQ"}
+{"query": "Faisal جابر", "target": "WL-0051", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Rashid Faysal Jaber", "target": "WL-0052", "label": 1, "kind": "spelling_variant", "dob": "1987-08-18", "nationality": "SY"}
+{"query": "راشد فيصل جابر", "target": "WL-0052", "label": 1, "kind": "arabic_script", "dob": "1987-08-18", "nationality": "SY"}
+{"query": "راِشد فُيصلَ ُجابّر", "target": "WL-0052", "label": 1, "kind": "arabic_with_diacritics", "dob": "1987-08-18", "nationality": "SY"}
+{"query": "Rashid Jaber", "target": "WL-0052", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Jaber Rashid Faisal", "target": "WL-0052", "label": 1, "kind": "reordered", "dob": "1987-08-18", "nationality": "SY"}
+{"query": "Rashid Faial Jaber", "target": "WL-0052", "label": 1, "kind": "typo", "dob": "1987-08-18", "nationality": "SY"}
+{"query": "Sheikh Rashid Faisal Jaber", "target": "WL-0052", "label": 1, "kind": "honorific", "dob": "1987-08-18", "nationality": "SY"}
+{"query": "Rashid جابر", "target": "WL-0052", "label": 1, "kind": "mixed_script", "dob": "1987-08-18", "nationality": "SY"}
+{"query": "Naser Tariq Al-Qassimi", "target": "WL-0053", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "ناصر طارق القاسمي", "target": "WL-0053", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "ناّصَرِ طَاُرق القاسمي", "target": "WL-0053", "label": 1, "kind": "arabic_with_diacritics", "dob": "1990-02-11", "nationality": "SY"}
+{"query": "Nasir Al Qasimi", "target": "WL-0053", "label": 1, "kind": "middle_name_dropped", "dob": "1990-02-11", "nationality": "SY"}
+{"query": "Al Qasimi Nasser Tariq", "target": "WL-0053", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Nasser Tariq Al  Qasimi", "target": "WL-0053", "label": 1, "kind": "typo", "dob": "1990-02-11", "nationality": "SY"}
+{"query": "Sheikh Nasser Tariq Al Qasimi", "target": "WL-0053", "label": 1, "kind": "honorific", "dob": "1990-02-11", "nationality": "SY"}
+{"query": "Nasser القاسمي", "target": "WL-0053", "label": 1, "kind": "mixed_script", "dob": "1990-02-11", "nationality": "SY"}
+{"query": "Maryam Hasan El Hashimi", "target": "WL-0054", "label": 1, "kind": "spelling_variant", "dob": "1976-01-16", "nationality": "IQ"}
+{"query": "مريم حسن الهاشمي", "target": "WL-0054", "label": 1, "kind": "arabic_script", "dob": "1976-01-16", "nationality": "IQ"}
+{"query": "مريم حسِن ِالهاشمي", "target": "WL-0054", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Maryam Alhashimi", "target": "WL-0054", "label": 1, "kind": "middle_name_dropped", "dob": "1976-01-16", "nationality": "IQ"}
+{"query": "Al Hashimi Maryam Hasan", "target": "WL-0054", "label": 1, "kind": "reordered", "dob": "1976-01-16", "nationality": "IQ"}
+{"query": "Maryam HasanAl Hashimi", "target": "WL-0054", "label": 1, "kind": "typo", "dob": "1976-01-16", "nationality": "IQ"}
+{"query": "Sheikh Maryam Hasan Al Hashimi", "target": "WL-0054", "label": 1, "kind": "honorific", "dob": "1976-01-16", "nationality": "IQ"}
+{"query": "Maryam الهاشمي", "target": "WL-0054", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Khaled Huda Rahman", "target": "WL-0055", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "خالد هدى الرحمن", "target": "WL-0055", "label": 1, "kind": "arabic_script", "dob": "1983-07-10", "nationality": "AE"}
+{"query": "خالد َهِدى الرحمن", "target": "WL-0055", "label": 1, "kind": "arabic_with_diacritics", "dob": "1983-07-10", "nationality": "AE"}
+{"query": "Khalid Rahman", "target": "WL-0055", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Rahman Khalid Huda", "target": "WL-0055", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Khalid Huda  Rahman", "target": "WL-0055", "label": 1, "kind": "typo", "dob": "1983-07-10", "nationality": "AE"}
+{"query": "Sheikh Khalid Huda Rahman", "target": "WL-0055", "label": 1, "kind": "honorific", "dob": "1983-07-10", "nationality": "AE"}
+{"query": "Khalid الرحمن", "target": "WL-0055", "label": 1, "kind": "mixed_script", "dob": null, "nationality": null}
+{"query": "Tariq Salma Uthman", "target": "WL-0056", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "طارق سلمى عثمان", "target": "WL-0056", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "طُارق َسلمىِ عثمُان", "target": "WL-0056", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Tariq Osman", "target": "WL-0056", "label": 1, "kind": "middle_name_dropped", "dob": "1970-02-08", "nationality": "LB"}
+{"query": "Othman Tariq Salma", "target": "WL-0056", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Tariq Sama Othman", "target": "WL-0056", "label": 1, "kind": "typo", "dob": "1970-02-08", "nationality": "LB"}
+{"query": "Sheikh Tariq Salma Othman", "target": "WL-0056", "label": 1, "kind": "honorific", "dob": "1970-02-08", "nationality": "LB"}
+{"query": "Tariq عثمان", "target": "WL-0056", "label": 1, "kind": "mixed_script", "dob": "1970-02-08", "nationality": "LB"}
+{"query": "Reem Salma Barakat", "target": "WL-0057", "label": 1, "kind": "spelling_variant", "dob": "1974-03-21", "nationality": "IQ"}
+{"query": "ريم سلمى بركات", "target": "WL-0057", "label": 1, "kind": "arabic_script", "dob": "1974-03-21", "nationality": "IQ"}
+{"query": "ريم سلمىُ ِبركَات", "target": "WL-0057", "label": 1, "kind": "arabic_with_diacritics", "dob": "1974-03-21", "nationality": "IQ"}
+{"query": "Reem Barakat", "target": "WL-0057", "label": 1, "kind": "middle_name_dropped", "dob": null, "nationality": null}
+{"query": "Barakat Reem Salma", "target": "WL-0057", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Reem Salmma Barakat", "target": "WL-0057", "label": 1, "kind": "typo", "dob": "1974-03-21", "nationality": "IQ"}
+{"query": "Sheikh Reem Salma Barakat", "target": "WL-0057", "label": 1, "kind": "honorific", "dob": "1974-03-21", "nationality": "IQ"}
+{"query": "Reem بركات", "target": "WL-0057", "label": 1, "kind": "mixed_script", "dob": "1974-03-21", "nationality": "IQ"}
+{"query": "Salma Umar Al-Nuaimy", "target": "WL-0058", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "سلمى عمر النعيمي", "target": "WL-0058", "label": 1, "kind": "arabic_script", "dob": "1993-01-01", "nationality": "YE"}
+{"query": "سَلّمَى ّعمَر النّعِيّميُ", "target": "WL-0058", "label": 1, "kind": "arabic_with_diacritics", "dob": null, "nationality": null}
+{"query": "Salma Al Naimi", "target": "WL-0058", "label": 1, "kind": "middle_name_dropped", "dob": "1993-01-01", "nationality": "YE"}
+{"query": "Al Nuaimi Salma Umar", "target": "WL-0058", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Salma Umar Al Nuimi", "target": "WL-0058", "label": 1, "kind": "typo", "dob": "1993-01-01", "nationality": "YE"}
+{"query": "Sheikh Salma Umar Al Nuaimi", "target": "WL-0058", "label": 1, "kind": "honorific", "dob": "1993-01-01", "nationality": "YE"}
+{"query": "Salma النعيمي", "target": "WL-0058", "label": 1, "kind": "mixed_script", "dob": "1993-01-01", "nationality": "YE"}
+{"query": "Saied Hamad Khouri", "target": "WL-0059", "label": 1, "kind": "spelling_variant", "dob": null, "nationality": null}
+{"query": "سعيد حمد خوري", "target": "WL-0059", "label": 1, "kind": "arabic_script", "dob": null, "nationality": null}
+{"query": "سُعيد حمد خَوريّ", "target": "WL-0059", "label": 1, "kind": "arabic_with_diacritics", "dob": "1981-12-21", "nationality": "YE"}
+{"query": "Saied Khuri", "target": "WL-0059", "label": 1, "kind": "middle_name_dropped", "dob": "1981-12-21", "nationality": "YE"}
+{"query": "Khoury Saeed Hamad", "target": "WL-0059", "label": 1, "kind": "reordered", "dob": null, "nationality": null}
+{"query": "Saeed amad Khoury", "target": "WL-0059", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Saeed Hamad Khoury", "target": "WL-0059", "label": 1, "kind": "honorific", "dob": null, "nationality": null}
+{"query": "Saeed خوري", "target": "WL-0059", "label": 1, "kind": "mixed_script", "dob": "1981-12-21", "nationality": "YE"}
+{"query": "Hassan Faisal Zayani", "target": "WL-0060", "label": 1, "kind": "spelling_variant", "dob": "1986-01-23", "nationality": "GB"}
+{"query": "حسن فيصل الزياني", "target": "WL-0060", "label": 1, "kind": "arabic_script", "dob": "1986-01-23", "nationality": "GB"}
+{"query": "حسنَ فُيِصل َالزيِانِيِ", "target": "WL-0060", "label": 1, "kind": "arabic_with_diacritics", "dob": "1986-01-23", "nationality": "GB"}
+{"query": "Hassan Zayani", "target": "WL-0060", "label": 1, "kind": "middle_name_dropped", "dob": "1986-01-23", "nationality": "GB"}
+{"query": "Zayani Hasan Faisal", "target": "WL-0060", "label": 1, "kind": "reordered", "dob": "1986-01-23", "nationality": "GB"}
+{"query": "Hasan Faisal Zaayani", "target": "WL-0060", "label": 1, "kind": "typo", "dob": null, "nationality": null}
+{"query": "Sheikh Hasan Faisal Zayani", "target": "WL-0060", "label": 1, "kind": "honorific", "dob": "1986-01-23", "nationality": "GB"}
+{"query": "Hasan الزياني", "target": "WL-0060", "label": 1, "kind": "mixed_script", "dob": "1986-01-23", "nationality": "GB"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1971-02-23", "nationality": "JO"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1960-07-10", "nationality": "SA"}
+{"query": "Salma Saeed Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1969-09-24", "nationality": "SY"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1973-12-26", "nationality": "EG"}
+{"query": "Reem Salma Rahman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1997-10-01", "nationality": "JO"}
+{"query": "Fatima Tariq Al Mansouri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2002-12-14", "nationality": "SY"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1974-07-18", "nationality": "SY"}
+{"query": "Tariq Huda Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1961-02-13", "nationality": "SY"}
+{"query": "Sultan Fatima Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1961-04-15", "nationality": "IQ"}
+{"query": "Umar Noura Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1979-12-16", "nationality": "JO"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2002-10-10", "nationality": "IN"}
+{"query": "Maryam Hasan Al Mansouri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1957-08-14", "nationality": "GB"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1979-07-26", "nationality": "AE"}
+{"query": "Muhammad Nasser Al Mansouri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1981-08-04", "nationality": "JO"}
+{"query": "Reem Yusuf Al Hashimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1996-06-04", "nationality": "PK"}
+{"query": "Layla Muhammad Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1978-11-02", "nationality": "IN"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1955-04-13", "nationality": "AE"}
+{"query": "Hamad Ali Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1975-10-16", "nationality": "SA"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1955-07-28", "nationality": "AE"}
+{"query": "Ibrahim Noura Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1997-07-08", "nationality": "EG"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1961-02-03", "nationality": "SA"}
+{"query": "Muhammad Saeed Rahman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1999-06-11", "nationality": "IQ"}
+{"query": "Ibrahim Ali Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1962-08-21", "nationality": "JO"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1975-03-27", "nationality": "PK"}
+{"query": "Ahmad Sultan Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1966-08-03", "nationality": "PK"}
+{"query": "Saeed Umar Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1963-08-18", "nationality": "IN"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1987-02-13", "nationality": "SA"}
+{"query": "Ali Maryam Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1970-05-11", "nationality": "JO"}
+{"query": "Salma Layla Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1988-02-23", "nationality": "EG"}
+{"query": "Salma Sultan Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2003-04-03", "nationality": "EG"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1970-05-10", "nationality": "AE"}
+{"query": "Aisha Sultan Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1989-05-11", "nationality": "IQ"}
+{"query": "Hamad Salma Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1999-11-09", "nationality": "IQ"}
+{"query": "Fatima Hamad Al Marri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2000-04-23", "nationality": "PK"}
+{"query": "Umar Fatima Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1998-03-11", "nationality": "EG"}
+{"query": "Ahmad Noura Nasr", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1955-04-10", "nationality": "PK"}
+{"query": "Ali Huda Othman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1998-03-05", "nationality": "PK"}
+{"query": "Huda Aisha Jaber", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1968-12-10", "nationality": "PK"}
+{"query": "Chen Li", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1960-07-08", "nationality": "SA"}
+{"query": "Hasan Umar Al Qasimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1987-01-16", "nationality": "IQ"}
+{"query": "Khalid Sultan Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1968-05-13", "nationality": "SA"}
+{"query": "Huda Tariq Al Shamsi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1988-03-24", "nationality": "EG"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1976-10-14", "nationality": "AE"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1979-09-18", "nationality": "IN"}
+{"query": "Ali Rashid Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1977-01-08", "nationality": "SA"}
+{"query": "Hasan Huda Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1959-07-01", "nationality": "IQ"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1985-04-03", "nationality": "PK"}
+{"query": "Muhammad Tariq Al Hashimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1968-10-08", "nationality": "GB"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1996-10-21", "nationality": "AE"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1976-03-11", "nationality": "SA"}
+{"query": "Nasser Muhammad Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1982-09-15", "nationality": "PK"}
+{"query": "Huda Umar Al Hashimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1991-09-09", "nationality": "EG"}
+{"query": "Nasser Rashid Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1986-02-17", "nationality": "IN"}
+{"query": "Noura Majid Zayani", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1972-04-21", "nationality": "PK"}
+{"query": "Ibrahim Faisal Barakat", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1968-09-12", "nationality": "SA"}
+{"query": "Aisha Faisal Zayani", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1973-11-19", "nationality": "SY"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1984-12-21", "nationality": "AE"}
+{"query": "Rahul Menon", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1966-10-08", "nationality": "EG"}
+{"query": "Aisha Umar Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1973-09-17", "nationality": "SY"}
+{"query": "Aisha Sultan Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1955-09-01", "nationality": "IQ"}
+{"query": "Maryam Layla Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1982-02-05", "nationality": "SA"}
+{"query": "Nasser Umar Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1963-10-26", "nationality": "JO"}
+{"query": "Faisal Huda Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1986-05-07", "nationality": "GB"}
+{"query": "Ali Sultan Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1995-06-22", "nationality": "GB"}
+{"query": "Majid Yusuf Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1973-11-09", "nationality": "JO"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1984-12-15", "nationality": "SA"}
+{"query": "Muhammad Tariq Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1983-12-28", "nationality": "GB"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1984-06-02", "nationality": "IN"}
+{"query": "Umar Ahmad Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1960-01-28", "nationality": "IN"}
+{"query": "Ibrahim Maryam Othman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1992-12-24", "nationality": "PK"}
+{"query": "Muhammad Hasan Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1992-11-15", "nationality": "IN"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1975-07-27", "nationality": "PK"}
+{"query": "Faisal Reem Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1970-04-17", "nationality": "JO"}
+{"query": "Umar Rashid Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2001-08-10", "nationality": "EG"}
+{"query": "Rahul Menon", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1981-11-13", "nationality": "IQ"}
+{"query": "Noura Ahmad Rahman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1960-05-03", "nationality": "JO"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2002-08-05", "nationality": "SY"}
+{"query": "Umar Salma Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2003-08-21", "nationality": "SY"}
+{"query": "Khalid Huda Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1962-01-20", "nationality": "IN"}
+{"query": "Noura Saeed Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1990-06-28", "nationality": "GB"}
+{"query": "Saeed Aisha Al Shamsi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1979-09-21", "nationality": "IQ"}
+{"query": "Muhammad Rashid Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1976-11-11", "nationality": "SY"}
+{"query": "Majid Rashid Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1994-04-27", "nationality": "GB"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1987-06-27", "nationality": "JO"}
+{"query": "Nasser Layla Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1991-11-12", "nationality": "JO"}
+{"query": "Hasan Ibrahim Jaber", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1964-01-03", "nationality": "GB"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1962-10-02", "nationality": "JO"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1996-10-12", "nationality": "PK"}
+{"query": "Layla Nasser Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1959-12-26", "nationality": "SY"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1968-07-16", "nationality": "JO"}
+{"query": "Reem Sultan Al Mansouri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1958-06-11", "nationality": "SA"}
+{"query": "Nasser Hasan Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1972-10-11", "nationality": "GB"}
+{"query": "Aisha Nasser Barakat", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1997-09-22", "nationality": "SY"}
+{"query": "Rashid Noura Rahman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1980-08-23", "nationality": "IN"}
+{"query": "Nasser Aisha Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1961-02-04", "nationality": "PK"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1992-05-26", "nationality": "JO"}
+{"query": "Maryam Faisal Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2002-09-27", "nationality": "IN"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1956-01-07", "nationality": "JO"}
+{"query": "Grace Mensah", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1995-11-15", "nationality": "EG"}
+{"query": "Huda Rashid Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1967-03-09", "nationality": "AE"}
+{"query": "Rahul Menon", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1959-10-06", "nationality": "SY"}
+{"query": "Fatima Tariq Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1957-05-23", "nationality": "JO"}
+{"query": "Hamad Maryam Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1961-02-10", "nationality": "PK"}
+{"query": "Reem Khalid Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1985-05-17", "nationality": "SA"}
+{"query": "Hasan Ibrahim Al Nuaimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1989-10-17", "nationality": "SY"}
+{"query": "Layla Umar Al Hashimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1979-08-01", "nationality": "IN"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1995-06-22", "nationality": "IQ"}
+{"query": "Aisha Saeed Jaber", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1995-06-14", "nationality": "SY"}
+{"query": "Nasser Maryam Al Nuaimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1990-06-05", "nationality": "AE"}
+{"query": "Nasser Hasan Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1960-05-23", "nationality": "EG"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1992-11-20", "nationality": "IN"}
+{"query": "Layla Yusuf Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1994-03-27", "nationality": "GB"}
+{"query": "Maryam Muhammad Haddad", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1985-12-07", "nationality": "IN"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1979-05-25", "nationality": "PK"}
+{"query": "Elena Petrova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2001-06-04", "nationality": "JO"}
+{"query": "Ali Fatima Al Shamsi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1968-09-20", "nationality": "SY"}
+{"query": "Ibrahim Noura Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1991-03-10", "nationality": "SA"}
+{"query": "Rashid Khalid Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1983-06-02", "nationality": "AE"}
+{"query": "Layla Majid Al Nuaimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1991-08-11", "nationality": "GB"}
+{"query": "Fatima Maryam Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1990-11-27", "nationality": "AE"}
+{"query": "Ali Muhammad Zayani", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1980-02-06", "nationality": "EG"}
+{"query": "Sultan Saeed Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1960-10-04", "nationality": "EG"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1979-02-25", "nationality": "AE"}
+{"query": "Ali Fatima Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1991-10-24", "nationality": "AE"}
+{"query": "Reem Salma Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2000-12-15", "nationality": "IQ"}
+{"query": "Noura Ibrahim Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1991-04-20", "nationality": "SY"}
+{"query": "Reem Khalid Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1987-09-17", "nationality": "IQ"}
+{"query": "Muhammad Hasan Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1969-08-17", "nationality": "JO"}
+{"query": "Yusuf Ibrahim Farouk", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1972-06-10", "nationality": "IN"}
+{"query": "Hamad Ibrahim Zayani", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1973-12-18", "nationality": "PK"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1998-06-24", "nationality": "JO"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1967-06-25", "nationality": "EG"}
+{"query": "Noura Reem Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1959-05-26", "nationality": "IQ"}
+{"query": "Salma Hasan Al Qasimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1995-10-11", "nationality": "JO"}
+{"query": "Muhammad Salma Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1972-05-28", "nationality": "JO"}
+{"query": "Khalid Ahmad Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1976-06-06", "nationality": "IQ"}
+{"query": "Muhammad Hamad Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1995-03-09", "nationality": "SA"}
+{"query": "Tariq Layla Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1997-11-21", "nationality": "PK"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2002-07-22", "nationality": "PK"}
+{"query": "Saeed Yusuf Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1979-08-23", "nationality": "IN"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1959-03-20", "nationality": "IQ"}
+{"query": "Yusuf Rashid Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1964-05-25", "nationality": "EG"}
+{"query": "Saeed Yusuf Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1995-06-26", "nationality": "PK"}
+{"query": "Yusuf Tariq Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2000-09-27", "nationality": "IN"}
+{"query": "Tariq Aisha Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1973-12-04", "nationality": "EG"}
+{"query": "Tariq Yusuf Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1995-07-27", "nationality": "IN"}
+{"query": "Umar Aisha Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1993-06-03", "nationality": "SY"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1964-12-17", "nationality": "JO"}
+{"query": "Noura Rashid Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1989-02-16", "nationality": "GB"}
+{"query": "Faisal Ali Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1964-02-14", "nationality": "GB"}
+{"query": "Salma Reem Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1971-11-10", "nationality": "EG"}
+{"query": "Salma Muhammad Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1963-04-16", "nationality": "GB"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1997-03-12", "nationality": "IQ"}
+{"query": "Tariq Salma Al Nuaimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1984-11-24", "nationality": "JO"}
+{"query": "Reem Ibrahim Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1990-02-01", "nationality": "EG"}
+{"query": "Ali Muhammad Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1983-02-06", "nationality": "EG"}
+{"query": "Hamad Khalid Zayani", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1979-05-19", "nationality": "GB"}
+{"query": "Layla Noura Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1967-12-24", "nationality": "AE"}
+{"query": "Huda Salma Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1989-02-16", "nationality": "EG"}
+{"query": "Faisal Yusuf Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2003-02-18", "nationality": "IN"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1991-01-02", "nationality": "JO"}
+{"query": "Ali Reem Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1955-10-24", "nationality": "SA"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1983-10-20", "nationality": "SA"}
+{"query": "Reem Tariq Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1997-01-26", "nationality": "EG"}
+{"query": "Grace Mensah", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1960-08-17", "nationality": "AE"}
+{"query": "Rashid Rashid Al Hashimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1970-11-10", "nationality": "IQ"}
+{"query": "Ali Majid Othman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1991-12-18", "nationality": "AE"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1992-08-17", "nationality": "IQ"}
+{"query": "Ali Reem Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1994-03-14", "nationality": "JO"}
+{"query": "Hamad Layla Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1971-08-17", "nationality": "PK"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1956-02-07", "nationality": "PK"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1989-04-06", "nationality": "JO"}
+{"query": "Rashid Maryam Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1956-08-22", "nationality": "GB"}
+{"query": "Khalid Maryam Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1958-09-08", "nationality": "JO"}
+{"query": "Salma Layla Barakat", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1996-06-17", "nationality": "IN"}
+{"query": "Salma Ali Al Nuaimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1974-04-14", "nationality": "GB"}
+{"query": "Nasser Saeed Rahman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2000-08-23", "nationality": "PK"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1962-11-08", "nationality": "SY"}
+{"query": "Ali Khalid Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1968-11-04", "nationality": "GB"}
+{"query": "Nasser Faisal Al Shamsi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1978-12-16", "nationality": "AE"}
+{"query": "Chen Li", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1966-07-02", "nationality": "EG"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2002-12-06", "nationality": "SA"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1960-06-20", "nationality": "PK"}
+{"query": "Majid Majid Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1986-06-14", "nationality": "SA"}
+{"query": "Tariq Yusuf Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1983-02-21", "nationality": "SY"}
+{"query": "Majid Maryam Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1959-08-12", "nationality": "IQ"}
+{"query": "Ali Hamad Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2002-11-10", "nationality": "IN"}
+{"query": "Rahul Menon", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1983-04-15", "nationality": "AE"}
+{"query": "Sultan Ibrahim Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1971-01-26", "nationality": "IN"}
+{"query": "Muhammad Sultan Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2003-08-09", "nationality": "SA"}
+{"query": "Noura Sultan Qureshi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1956-09-04", "nationality": "PK"}
+{"query": "Ahmad Hamad Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1998-03-06", "nationality": "JO"}
+{"query": "Maryam Majid Al Mansouri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1989-11-03", "nationality": "PK"}
+{"query": "Ahmad Hamad Nasr", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2000-12-22", "nationality": "IQ"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1968-12-21", "nationality": "IN"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1974-08-22", "nationality": "GB"}
+{"query": "Nasser Fatima Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1996-09-03", "nationality": "IN"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1984-02-05", "nationality": "GB"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1984-10-12", "nationality": "PK"}
+{"query": "Huda Ibrahim Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1967-04-07", "nationality": "IQ"}
+{"query": "Sultan Aisha Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1966-05-02", "nationality": "JO"}
+{"query": "Ali Tariq Qureshi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1987-12-12", "nationality": "JO"}
+{"query": "Tariq Nasser Zayani", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2002-03-27", "nationality": "EG"}
+{"query": "Maryam Reem Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1996-04-14", "nationality": "IN"}
+{"query": "Huda Faisal Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1974-02-13", "nationality": "SY"}
+{"query": "Faisal Khalid Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1985-09-16", "nationality": "PK"}
+{"query": "Aisha Hamad Al Nuaimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1978-03-24", "nationality": "SY"}
+{"query": "Muhammad Noura Al Nuaimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1993-05-07", "nationality": "GB"}
+{"query": "Faisal Tariq Qureshi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1962-01-08", "nationality": "AE"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1970-03-20", "nationality": "AE"}
+{"query": "Yusuf Tariq Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1970-07-27", "nationality": "GB"}
+{"query": "Ali Muhammad Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1969-12-09", "nationality": "JO"}
+{"query": "Maryam Fatima Al Qasimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1958-07-17", "nationality": "JO"}
+{"query": "Nasser Ali Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1955-02-28", "nationality": "JO"}
+{"query": "Faisal Aisha Al Qasimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1972-02-14", "nationality": "IQ"}
+{"query": "Ali Aisha Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1960-10-17", "nationality": "SA"}
+{"query": "Majid Muhammad Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1998-11-04", "nationality": "PK"}
+{"query": "Sultan Sultan Al Nuaimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1968-12-14", "nationality": "PK"}
+{"query": "Hasan Maryam Rahman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1993-12-08", "nationality": "SA"}
+{"query": "Ali Reem Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1968-06-22", "nationality": "AE"}
+{"query": "Ahmad Rashid Al Nuaimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2000-05-23", "nationality": "SA"}
+{"query": "Yusuf Sultan Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1981-11-04", "nationality": "SY"}
+{"query": "Grace Mensah", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1975-11-24", "nationality": "IN"}
+{"query": "Saeed Huda Qureshi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1955-03-14", "nationality": "SA"}
+{"query": "Huda Umar Nasr", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1979-06-26", "nationality": "IQ"}
+{"query": "Salma Ali Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1958-01-06", "nationality": "AE"}
+{"query": "Nasser Khalid Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1982-10-03", "nationality": "IN"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1986-09-11", "nationality": "GB"}
+{"query": "Nasser Maryam Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1965-01-18", "nationality": "AE"}
+{"query": "Tariq Yusuf Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1978-10-25", "nationality": "PK"}
+{"query": "Salma Hasan Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1990-07-12", "nationality": "SA"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1976-11-19", "nationality": "AE"}
+{"query": "Umar Saeed Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1981-04-15", "nationality": "EG"}
+{"query": "Rashid Fatima Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1963-12-24", "nationality": "SA"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1964-07-04", "nationality": "IQ"}
+{"query": "Ali Hamad Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1958-05-12", "nationality": "SY"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1961-02-02", "nationality": "JO"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1973-03-22", "nationality": "SY"}
+{"query": "Hasan Khalid Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1970-06-06", "nationality": "AE"}
+{"query": "Hasan Muhammad Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1971-10-13", "nationality": "JO"}
+{"query": "Hasan Majid Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1977-05-06", "nationality": "AE"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2000-07-23", "nationality": "IQ"}
+{"query": "Rashid Majid Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1990-02-26", "nationality": "EG"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1998-01-10", "nationality": "AE"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1974-06-18", "nationality": "PK"}
+{"query": "Muhammad Faisal Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1985-05-21", "nationality": "IN"}
+{"query": "Muhammad Hamad Al Hashimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1987-10-11", "nationality": "GB"}
+{"query": "Ibrahim Yusuf Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1996-07-26", "nationality": "GB"}
+{"query": "Muhammad Salma Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1976-07-09", "nationality": "PK"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1994-07-15", "nationality": "PK"}
+{"query": "Rahul Menon", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1997-07-06", "nationality": "GB"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1969-03-18", "nationality": "JO"}
+{"query": "Khalid Ali Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1986-07-19", "nationality": "AE"}
+{"query": "Saeed Maryam Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1985-11-05", "nationality": "SY"}
+{"query": "Salma Sultan Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1971-03-01", "nationality": "IN"}
+{"query": "Ali Khalid Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1975-05-12", "nationality": "IQ"}
+{"query": "Ibrahim Tariq Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1972-06-04", "nationality": "EG"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1959-12-26", "nationality": "SY"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1996-10-08", "nationality": "EG"}
+{"query": "Noura Tariq Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1969-06-11", "nationality": "EG"}
+{"query": "Noura Reem Nasr", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1966-03-02", "nationality": "AE"}
+{"query": "Tariq Hamad Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1969-04-25", "nationality": "SA"}
+{"query": "Hasan Nasser Barakat", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1973-03-04", "nationality": "PK"}
+{"query": "Aisha Muhammad Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1974-01-15", "nationality": "SY"}
+{"query": "Sultan Tariq Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1996-12-28", "nationality": "SY"}
+{"query": "Majid Ibrahim Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1988-11-08", "nationality": "IN"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2002-02-07", "nationality": "PK"}
+{"query": "Sultan Noura Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1977-04-08", "nationality": "IN"}
+{"query": "Ali Faisal Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1967-06-05", "nationality": "SA"}
+{"query": "Fatima Saeed Al Marri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1974-02-13", "nationality": "PK"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1998-04-18", "nationality": "PK"}
+{"query": "Maryam Yusuf Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1960-04-11", "nationality": "JO"}
+{"query": "Noura Muhammad Zayani", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1979-04-17", "nationality": "SA"}
+{"query": "Fatima Saeed Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1960-12-15", "nationality": "AE"}
+{"query": "Maryam Saeed Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2003-03-27", "nationality": "SY"}
+{"query": "Tariq Sultan Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1968-04-07", "nationality": "IQ"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2001-07-08", "nationality": "SA"}
+{"query": "Fatima Ahmad Barakat", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1980-03-16", "nationality": "PK"}
+{"query": "Ibrahim Noura Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1981-02-07", "nationality": "PK"}
+{"query": "Noura Layla Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1999-11-06", "nationality": "JO"}
+{"query": "Ali Saeed Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1975-07-20", "nationality": "IQ"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1977-04-07", "nationality": "SA"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1995-08-15", "nationality": "IN"}
+{"query": "Rahul Menon", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1974-12-09", "nationality": "SA"}
+{"query": "Rashid Yusuf Zayani", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1985-06-11", "nationality": "AE"}
+{"query": "Huda Khalid Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1960-07-04", "nationality": "EG"}
+{"query": "Muhammad Saeed Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1997-04-20", "nationality": "GB"}
+{"query": "Rashid Aisha Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1967-07-02", "nationality": "IQ"}
+{"query": "Muhammad Reem Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1981-02-19", "nationality": "SY"}
+{"query": "Saeed Ibrahim Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1994-06-01", "nationality": "EG"}
+{"query": "Ali Nasser Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2000-11-06", "nationality": "PK"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1963-02-06", "nationality": "AE"}
+{"query": "Hamad Yusuf Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2003-07-21", "nationality": "SY"}
+{"query": "Ahmad Sultan Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1985-11-05", "nationality": "AE"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1955-10-15", "nationality": "PK"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1956-09-21", "nationality": "JO"}
+{"query": "Elena Petrova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1960-11-03", "nationality": "AE"}
+{"query": "Hamad Rashid Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1969-05-21", "nationality": "PK"}
+{"query": "Ali Faisal Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1991-05-23", "nationality": "JO"}
+{"query": "Muhammad Ali Al Hashimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1998-04-10", "nationality": "JO"}
+{"query": "Umar Fatima Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1956-01-01", "nationality": "PK"}
+{"query": "Sultan Khalid Al Hashimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1969-09-21", "nationality": "PK"}
+{"query": "Hasan Reem Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1992-05-09", "nationality": "GB"}
+{"query": "Majid Muhammad Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1972-03-28", "nationality": "PK"}
+{"query": "Hamad Salma Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1961-03-14", "nationality": "IQ"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1982-04-12", "nationality": "AE"}
+{"query": "Rashid Tariq Barakat", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1974-05-25", "nationality": "GB"}
+{"query": "Huda Aisha Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1988-12-20", "nationality": "IQ"}
+{"query": "Tariq Umar Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1992-06-26", "nationality": "JO"}
+{"query": "Faisal Huda Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1981-04-06", "nationality": "EG"}
+{"query": "Ibrahim Reem Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1973-06-08", "nationality": "JO"}
+{"query": "Salma Muhammad Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1994-06-18", "nationality": "GB"}
+{"query": "Rahul Menon", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1982-04-28", "nationality": "SA"}
+{"query": "Saeed Salma Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1966-07-01", "nationality": "IQ"}
+{"query": "Hamad Noura Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1956-03-01", "nationality": "SY"}
+{"query": "Hasan Ibrahim Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1963-08-21", "nationality": "IQ"}
+{"query": "Hasan Ali Farouk", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1964-11-14", "nationality": "PK"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1971-06-07", "nationality": "SY"}
+{"query": "Muhammad Reem Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1984-07-22", "nationality": "SY"}
+{"query": "Tariq Saeed Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1995-02-03", "nationality": "SY"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1960-09-12", "nationality": "SY"}
+{"query": "Faisal Majid Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1979-04-01", "nationality": "SY"}
+{"query": "Majid Umar Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1997-06-10", "nationality": "JO"}
+{"query": "Faisal Noura Al Shamsi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1980-08-10", "nationality": "AE"}
+{"query": "Reem Rashid Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1988-08-07", "nationality": "IN"}
+{"query": "Yusuf Layla Barakat", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1986-06-17", "nationality": "JO"}
+{"query": "Layla Majid Zayani", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2000-11-01", "nationality": "PK"}
+{"query": "Nasser Hasan Rahman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1955-08-14", "nationality": "AE"}
+{"query": "Tariq Umar Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2000-09-04", "nationality": "GB"}
+{"query": "Reem Saeed Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1980-12-08", "nationality": "EG"}
+{"query": "Saeed Layla Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1978-06-19", "nationality": "SA"}
+{"query": "Noura Muhammad Barakat", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1999-04-21", "nationality": "JO"}
+{"query": "Huda Hasan Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2000-04-02", "nationality": "EG"}
+{"query": "Yusuf Umar Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1974-12-18", "nationality": "IN"}
+{"query": "Tariq Ali Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1979-07-28", "nationality": "GB"}
+{"query": "Hamad Hasan Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1984-03-13", "nationality": "IQ"}
+{"query": "Rashid Noura Al Marri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1960-09-21", "nationality": "SA"}
+{"query": "Aisha Rashid Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1985-07-12", "nationality": "GB"}
+{"query": "Reem Hasan Barakat", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1989-05-18", "nationality": "IN"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1963-11-15", "nationality": "AE"}
+{"query": "Noura Ali Al Mansouri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1958-04-01", "nationality": "EG"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1979-08-21", "nationality": "SA"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1980-06-14", "nationality": "IN"}
+{"query": "Fatima Sultan Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1958-02-16", "nationality": "SY"}
+{"query": "Layla Tariq Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1980-09-10", "nationality": "SA"}
+{"query": "Muhammad Reem Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1979-04-06", "nationality": "GB"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1965-06-16", "nationality": "JO"}
+{"query": "Khalid Hasan Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1989-04-26", "nationality": "PK"}
+{"query": "Ali Noura Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1966-12-13", "nationality": "IQ"}
+{"query": "Hamad Huda Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1973-09-08", "nationality": "AE"}
+{"query": "Hasan Saeed Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1997-10-09", "nationality": "PK"}
+{"query": "Fatima Ali Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1955-04-25", "nationality": "IQ"}
+{"query": "Layla Majid Al Qasimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1956-02-04", "nationality": "GB"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1986-07-04", "nationality": "IQ"}
+{"query": "Layla Ibrahim Al Shamsi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1976-01-09", "nationality": "IQ"}
+{"query": "Hasan Khalid Al Qasimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1987-10-24", "nationality": "IQ"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1987-05-23", "nationality": "GB"}
+{"query": "Layla Khalid Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1991-12-10", "nationality": "IN"}
+{"query": "Saeed Yusuf Al Marri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1968-07-03", "nationality": "SY"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1996-12-08", "nationality": "GB"}
+{"query": "Hasan Majid Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1965-09-15", "nationality": "IN"}
+{"query": "Umar Hamad Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1970-10-07", "nationality": "JO"}
+{"query": "Saeed Muhammad Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1959-09-28", "nationality": "JO"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1992-06-09", "nationality": "EG"}
+{"query": "Nasser Tariq Rahman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1992-11-12", "nationality": "IQ"}
+{"query": "Hasan Tariq Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1967-10-27", "nationality": "JO"}
+{"query": "Yusuf Nasser Al Shamsi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1985-06-06", "nationality": "IN"}
+{"query": "Huda Noura Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1972-10-18", "nationality": "GB"}
+{"query": "Khalid Layla Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1992-12-07", "nationality": "PK"}
+{"query": "Faisal Rashid Zayani", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1996-06-01", "nationality": "SA"}
+{"query": "Grace Mensah", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1957-09-18", "nationality": "GB"}
+{"query": "Ali Saeed Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1969-09-25", "nationality": "SY"}
+{"query": "Aisha Muhammad Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1970-09-08", "nationality": "IQ"}
+{"query": "Fatima Hasan Othman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1971-01-10", "nationality": "SY"}
+{"query": "Rashid Muhammad Al Shamsi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1958-06-16", "nationality": "GB"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1999-06-26", "nationality": "SA"}
+{"query": "Maryam Umar Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1971-11-04", "nationality": "IQ"}
+{"query": "Sultan Huda Al Hashimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1979-01-10", "nationality": "SY"}
+{"query": "Chen Li", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1982-04-10", "nationality": "GB"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1976-06-23", "nationality": "IQ"}
+{"query": "Hasan Ibrahim Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1962-12-14", "nationality": "JO"}
+{"query": "Sultan Saeed Zayani", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1998-09-22", "nationality": "SA"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1997-02-15", "nationality": "AE"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1957-06-21", "nationality": "SA"}
+{"query": "Hasan Khalid Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1978-09-14", "nationality": "EG"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1993-01-25", "nationality": "SA"}
+{"query": "Reem Khalid Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1963-12-18", "nationality": "GB"}
+{"query": "Faisal Majid Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1979-11-18", "nationality": "EG"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1975-10-20", "nationality": "JO"}
+{"query": "Umar Reem Rahman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2000-06-14", "nationality": "SA"}
+{"query": "Maryam Reem Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1988-01-09", "nationality": "IN"}
+{"query": "Saeed Majid Al Hashimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1967-04-02", "nationality": "SY"}
+{"query": "Majid Ali Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1984-09-02", "nationality": "SA"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1997-02-20", "nationality": "IQ"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2000-10-07", "nationality": "JO"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2002-06-16", "nationality": "PK"}
+{"query": "Salma Saeed Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1962-10-01", "nationality": "SY"}
+{"query": "Sultan Aisha Farouk", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1997-12-02", "nationality": "GB"}
+{"query": "Khalid Huda Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2003-08-02", "nationality": "IN"}
+{"query": "Elena Petrova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1973-06-26", "nationality": "PK"}
+{"query": "Maryam Ali Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2001-06-05", "nationality": "PK"}
+{"query": "Ali Layla Othman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1962-05-02", "nationality": "IN"}
+{"query": "Ali Faisal Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1998-08-18", "nationality": "IN"}
+{"query": "Chen Li", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1975-08-10", "nationality": "PK"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1978-11-05", "nationality": "IQ"}
+{"query": "Tariq Ibrahim Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1969-07-23", "nationality": "SA"}
+{"query": "Muhammad Sultan Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1970-02-16", "nationality": "EG"}
+{"query": "Fatima Tariq Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1957-04-17", "nationality": "IN"}
+{"query": "Elena Petrova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1961-05-10", "nationality": "JO"}
+{"query": "Huda Majid Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1957-06-08", "nationality": "JO"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1976-05-14", "nationality": "EG"}
+{"query": "Aisha Rashid Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2002-04-15", "nationality": "PK"}
+{"query": "Hasan Maryam Rahman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1994-11-12", "nationality": "IN"}
+{"query": "Hasan Muhammad Al Marri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1975-04-21", "nationality": "EG"}
+{"query": "Yusuf Sultan Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1957-03-17", "nationality": "SA"}
+{"query": "Yusuf Majid Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2002-06-16", "nationality": "AE"}
+{"query": "Layla Ahmad Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1983-08-09", "nationality": "PK"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1964-04-26", "nationality": "GB"}
+{"query": "Aisha Muhammad Al Mansouri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1964-07-24", "nationality": "EG"}
+{"query": "Muhammad Noura Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1959-09-22", "nationality": "GB"}
+{"query": "Ahmad Fatima Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1967-05-25", "nationality": "AE"}
+{"query": "Elena Petrova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1996-02-12", "nationality": "IN"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1976-02-27", "nationality": "SA"}
+{"query": "Noura Nasser Zayani", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2003-06-02", "nationality": "EG"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1961-11-05", "nationality": "PK"}
+{"query": "Ali Aisha Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1991-04-09", "nationality": "SY"}
+{"query": "Ibrahim Maryam Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1968-12-24", "nationality": "EG"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2002-03-22", "nationality": "AE"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1985-12-23", "nationality": "IQ"}
+{"query": "Noura Muhammad Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1975-01-22", "nationality": "EG"}
+{"query": "Ali Nasser Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2000-03-20", "nationality": "IN"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1979-03-03", "nationality": "AE"}
+{"query": "Rahul Menon", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1989-09-19", "nationality": "EG"}
+{"query": "Faisal Aisha Farouk", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1997-09-22", "nationality": "EG"}
+{"query": "Sultan Hamad Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1998-03-16", "nationality": "IN"}
+{"query": "Ali Majid Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1991-09-27", "nationality": "PK"}
+{"query": "Faisal Rashid Al Mansouri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1992-07-21", "nationality": "SY"}
+{"query": "Nasser Hamad Al Nuaimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1998-03-28", "nationality": "PK"}
+{"query": "Aisha Nasser Al Hashimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1967-07-03", "nationality": "JO"}
+{"query": "Ali Aisha Jaber", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1977-11-02", "nationality": "GB"}
+{"query": "Tariq Ibrahim Zayani", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1963-02-09", "nationality": "GB"}
+{"query": "Ali Maryam Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1985-12-27", "nationality": "SA"}
+{"query": "Hasan Yusuf Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1988-02-08", "nationality": "IQ"}
+{"query": "Aisha Reem Othman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1989-03-15", "nationality": "JO"}
+{"query": "Ahmad Noura Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1972-07-02", "nationality": "JO"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1975-01-22", "nationality": "SA"}
+{"query": "Saeed Sultan Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1985-02-04", "nationality": "AE"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1990-06-16", "nationality": "SY"}
+{"query": "Rashid Muhammad Barakat", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1998-09-05", "nationality": "SA"}
+{"query": "Hasan Yusuf Al Mansouri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1987-12-01", "nationality": "EG"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1955-02-01", "nationality": "IN"}
+{"query": "Ibrahim Faisal Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1975-05-28", "nationality": "JO"}
+{"query": "Hasan Saeed Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1971-11-03", "nationality": "IN"}
+{"query": "Hamad Sultan Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1990-07-28", "nationality": "IN"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1978-10-09", "nationality": "IQ"}
+{"query": "Maryam Hasan Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1980-04-24", "nationality": "PK"}
+{"query": "Hasan Nasser Jaber", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1980-06-05", "nationality": "PK"}
+{"query": "Aisha Maryam Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1993-07-15", "nationality": "IN"}
+{"query": "Hamad Salma Al Mansouri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1966-10-02", "nationality": "SA"}
+{"query": "Reem Tariq Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1984-01-08", "nationality": "IN"}
+{"query": "Rashid Khalid Zayani", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1999-09-19", "nationality": "GB"}
+{"query": "Salma Hasan Al Qasimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1991-04-06", "nationality": "SA"}
+{"query": "Hamad Tariq Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1966-12-23", "nationality": "IN"}
+{"query": "Fatima Salma Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1999-04-28", "nationality": "AE"}
+{"query": "Muhammad Faisal Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1974-11-15", "nationality": "GB"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1990-03-09", "nationality": "JO"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2001-09-06", "nationality": "EG"}
+{"query": "Ali Tariq Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1967-01-17", "nationality": "EG"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1969-12-03", "nationality": "EG"}
+{"query": "Fatima Hasan Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2001-10-07", "nationality": "EG"}
+{"query": "Umar Layla Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1996-01-24", "nationality": "SA"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1963-01-21", "nationality": "IQ"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1973-08-08", "nationality": "EG"}
+{"query": "Fatima Sultan Al Mansouri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2000-10-22", "nationality": "IN"}
+{"query": "Layla Reem Al Hashimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1989-12-15", "nationality": "AE"}
+{"query": "Yusuf Saeed Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1992-10-09", "nationality": "PK"}
+{"query": "Muhammad Aisha Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1972-03-19", "nationality": "JO"}
+{"query": "Saeed Hamad Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1962-03-03", "nationality": "AE"}
+{"query": "Chen Li", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1967-06-07", "nationality": "AE"}
+{"query": "Ahmad Khalid Al Qasimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1975-11-14", "nationality": "SY"}
+{"query": "Tariq Khalid Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1983-01-19", "nationality": "JO"}
+{"query": "Muhammad Hasan Qureshi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1995-03-15", "nationality": "SA"}
+{"query": "Aisha Khalid Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1974-08-11", "nationality": "SA"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1962-01-22", "nationality": "IQ"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1963-05-23", "nationality": "IQ"}
+{"query": "Ibrahim Muhammad Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1966-10-13", "nationality": "IN"}
+{"query": "Sultan Reem Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1987-08-05", "nationality": "PK"}
+{"query": "Muhammad Salma Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1988-02-17", "nationality": "AE"}
+{"query": "Salma Fatima Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1985-01-01", "nationality": "GB"}
+{"query": "Salma Maryam Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1958-04-16", "nationality": "EG"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2003-08-15", "nationality": "SA"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1975-07-18", "nationality": "GB"}
+{"query": "Tariq Nasser Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1979-06-11", "nationality": "AE"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1982-04-19", "nationality": "SY"}
+{"query": "Layla Faisal Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1970-01-16", "nationality": "EG"}
+{"query": "Fatima Yusuf Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1972-06-01", "nationality": "PK"}
+{"query": "Hamad Aisha Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2003-08-25", "nationality": "AE"}
+{"query": "Yusuf Aisha Al Hashimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1984-11-14", "nationality": "GB"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1997-04-18", "nationality": "GB"}
+{"query": "Reem Fatima Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2001-11-10", "nationality": "EG"}
+{"query": "Umar Yusuf Rahman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1976-02-18", "nationality": "GB"}
+{"query": "Wei Zhang", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1962-03-23", "nationality": "IQ"}
+{"query": "Ali Fatima Barakat", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2001-05-22", "nationality": "AE"}
+{"query": "Faisal Saeed Farouk", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1991-03-01", "nationality": "GB"}
+{"query": "Sultan Huda Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1977-10-22", "nationality": "GB"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2000-01-03", "nationality": "SA"}
+{"query": "Ibrahim Umar Barakat", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1986-05-16", "nationality": "IN"}
+{"query": "Faisal Nasser Zayani", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1989-09-14", "nationality": "IQ"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2000-11-14", "nationality": "AE"}
+{"query": "Noura Umar Barakat", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1966-03-07", "nationality": "EG"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1962-09-16", "nationality": "IN"}
+{"query": "Saeed Ahmad Othman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2003-01-18", "nationality": "GB"}
+{"query": "Ibrahim Majid Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1962-04-06", "nationality": "IN"}
+{"query": "Hasan Tariq Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1963-03-26", "nationality": "EG"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2001-05-02", "nationality": "SA"}
+{"query": "Rashid Reem Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1995-04-01", "nationality": "IQ"}
+{"query": "Ali Saeed Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1980-11-17", "nationality": "IQ"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1992-01-08", "nationality": "JO"}
+{"query": "Salma Yusuf Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1990-03-19", "nationality": "SA"}
+{"query": "Huda Aisha Zayani", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1956-07-15", "nationality": "SY"}
+{"query": "Ali Majid Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1959-10-06", "nationality": "EG"}
+{"query": "Fatima Ahmad Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1963-10-18", "nationality": "AE"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1997-10-23", "nationality": "SA"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1996-04-28", "nationality": "JO"}
+{"query": "Aisha Tariq Al Shamsi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1990-12-18", "nationality": "EG"}
+{"query": "Sultan Reem Barakat", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1958-12-23", "nationality": "IN"}
+{"query": "Maryam Reem Al Nuaimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1969-08-10", "nationality": "IQ"}
+{"query": "Rashid Saeed Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1996-09-24", "nationality": "JO"}
+{"query": "Saeed Hamad Al Nuaimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1957-11-03", "nationality": "AE"}
+{"query": "Saeed Rashid Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1996-02-01", "nationality": "SY"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1963-08-11", "nationality": "PK"}
+{"query": "Grace Mensah", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1986-12-04", "nationality": "PK"}
+{"query": "Maryam Noura Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1989-02-24", "nationality": "EG"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1991-09-21", "nationality": "EG"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1972-01-11", "nationality": "PK"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2001-02-08", "nationality": "IQ"}
+{"query": "Salma Saeed Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1962-01-11", "nationality": "PK"}
+{"query": "Saeed Ahmad Al Hashimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2002-06-02", "nationality": "GB"}
+{"query": "Yusuf Umar Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1969-09-02", "nationality": "GB"}
+{"query": "Huda Khalid Al Qasimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1964-02-02", "nationality": "IN"}
+{"query": "Umar Khalid Al Hashimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1981-10-02", "nationality": "PK"}
+{"query": "Yusuf Tariq Rahman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1966-04-03", "nationality": "GB"}
+{"query": "Noura Sultan Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1962-07-20", "nationality": "JO"}
+{"query": "Salma Faisal Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1971-08-27", "nationality": "SY"}
+{"query": "Fatima Rashid Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1981-03-03", "nationality": "SA"}
+{"query": "Rashid Layla Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1989-05-25", "nationality": "PK"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2001-05-07", "nationality": "GB"}
+{"query": "Ibrahim Saeed Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1956-06-07", "nationality": "SA"}
+{"query": "Ahmad Nasser Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1986-03-26", "nationality": "AE"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1978-02-24", "nationality": "PK"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1978-11-09", "nationality": "EG"}
+{"query": "Noura Fatima Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1970-04-16", "nationality": "SY"}
+{"query": "Yusuf Salma Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2002-10-27", "nationality": "IQ"}
+{"query": "Chen Li", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1978-02-04", "nationality": "SA"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1974-12-04", "nationality": "PK"}
+{"query": "Rashid Noura Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1968-05-08", "nationality": "PK"}
+{"query": "Huda Aisha Al Marri", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1969-12-01", "nationality": "PK"}
+{"query": "Ravi Kumar", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2003-05-22", "nationality": "SY"}
+{"query": "Ali Saeed Rahman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1960-11-09", "nationality": "IQ"}
+{"query": "Muhammad Fatima Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1992-09-16", "nationality": "SY"}
+{"query": "Majid Ahmad Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1997-10-20", "nationality": "AE"}
+{"query": "Sultan Hasan Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1997-08-18", "nationality": "GB"}
+{"query": "Saeed Rashid Rahman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1959-07-20", "nationality": "EG"}
+{"query": "Nasser Yusuf Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1971-12-15", "nationality": "GB"}
+{"query": "Nasser Saeed Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1977-09-24", "nationality": "PK"}
+{"query": "Saeed Reem Al Hashimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1987-04-19", "nationality": "SY"}
+{"query": "Daniel Okafor", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1965-02-06", "nationality": "SY"}
+{"query": "Maryam Hamad Al Hashimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1983-06-05", "nationality": "GB"}
+{"query": "Muhammad Rashid Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1978-09-07", "nationality": "JO"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1978-04-07", "nationality": "IN"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1972-03-13", "nationality": "SY"}
+{"query": "Muhammad Aisha Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1955-05-23", "nationality": "SA"}
+{"query": "Noura Reem Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1995-07-23", "nationality": "JO"}
+{"query": "Hasan Khalid Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1987-09-23", "nationality": "AE"}
+{"query": "Yusuf Hasan Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1985-06-01", "nationality": "IQ"}
+{"query": "Elena Petrova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1985-06-18", "nationality": "PK"}
+{"query": "Maryam Aisha Rahman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1996-07-08", "nationality": "SA"}
+{"query": "Ahmad Majid Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1973-09-02", "nationality": "IN"}
+{"query": "Faisal Fatima Khoury", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1958-04-05", "nationality": "GB"}
+{"query": "Aisha Nasser Qureshi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1965-12-24", "nationality": "PK"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1976-12-28", "nationality": "JO"}
+{"query": "Muhammad Ali Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1990-05-01", "nationality": "AE"}
+{"query": "Rahul Menon", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1961-06-23", "nationality": "AE"}
+{"query": "Majid Sultan Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1991-10-12", "nationality": "EG"}
+{"query": "Tariq Faisal Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1986-08-11", "nationality": "SY"}
+{"query": "Chen Li", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1998-04-14", "nationality": "IQ"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1990-08-11", "nationality": "PK"}
+{"query": "Saeed Aisha Haddad", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2000-12-14", "nationality": "PK"}
+{"query": "Maryam Fatima Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1990-09-22", "nationality": "AE"}
+{"query": "Muhammad Noura Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1984-07-10", "nationality": "IN"}
+{"query": "Ali Faisal Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1990-01-15", "nationality": "IQ"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1961-04-05", "nationality": "GB"}
+{"query": "Ahmad Nasser Qureshi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1963-04-17", "nationality": "SA"}
+{"query": "Muhammad Nasser Zayani", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1990-06-25", "nationality": "IQ"}
+{"query": "Muhammad Hasan Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1987-04-01", "nationality": "PK"}
+{"query": "Fatima Nasser Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1970-05-12", "nationality": "IQ"}
+{"query": "Tariq Aisha Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1973-02-18", "nationality": "IQ"}
+{"query": "Fatima Aisha Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1999-04-10", "nationality": "PK"}
+{"query": "Huda Ibrahim Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1958-05-20", "nationality": "GB"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1998-07-12", "nationality": "PK"}
+{"query": "Saeed Hasan Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1979-03-07", "nationality": "SA"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1971-03-23", "nationality": "IQ"}
+{"query": "Aisha Muhammad Othman", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1989-07-08", "nationality": "IQ"}
+{"query": "Ali Noura Al Nuaimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1964-10-07", "nationality": "SY"}
+{"query": "Hasan Reem Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1989-08-13", "nationality": "JO"}
+{"query": "Maryam Noura Farouk", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1995-02-17", "nationality": "PK"}
+{"query": "Faisal Ali Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1974-12-07", "nationality": "GB"}
+{"query": "Ali Rashid Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1977-03-24", "nationality": "IN"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1979-12-14", "nationality": "EG"}
+{"query": "Muhammad Salma Al Hashimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1998-02-01", "nationality": "IQ"}
+{"query": "Saeed Noura Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1971-10-02", "nationality": "SY"}
+{"query": "Majid Salma Al Qasimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1956-10-20", "nationality": "IN"}
+{"query": "Reem Rashid Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1984-01-18", "nationality": "EG"}
+{"query": "Noura Khalid Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1991-12-26", "nationality": "SY"}
+{"query": "Huda Ahmad Al Hashimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1987-12-12", "nationality": "SY"}
+{"query": "Ali Muhammad Zayani", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1983-08-03", "nationality": "EG"}
+{"query": "Yusuf Tariq Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1966-09-10", "nationality": "GB"}
+{"query": "Ali Layla Farouk", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1964-06-27", "nationality": "JO"}
+{"query": "Reem Saeed Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1955-05-01", "nationality": "SY"}
+{"query": "Ali Yusuf Al Nuaimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1990-03-26", "nationality": "IN"}
+{"query": "Fatima Maryam Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1979-08-13", "nationality": "IQ"}
+{"query": "Fatima Salma Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1965-08-05", "nationality": "JO"}
+{"query": "Aisha Khalid Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1959-09-19", "nationality": "IN"}
+{"query": "Majid Hamad Darwish", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1990-06-18", "nationality": "IQ"}
+{"query": "Aisha Faisal Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1972-07-26", "nationality": "PK"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2003-01-08", "nationality": "SY"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2001-08-26", "nationality": "AE"}
+{"query": "John Carter", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1958-12-07", "nationality": "IN"}
+{"query": "Saeed Huda Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1985-11-17", "nationality": "JO"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1976-11-01", "nationality": "IQ"}
+{"query": "Noura Salma Al Mansouri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1995-11-05", "nationality": "IQ"}
+{"query": "Fatima Sultan Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1960-11-10", "nationality": "SA"}
+{"query": "Nasser Ahmad Al Hashimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1978-05-02", "nationality": "SY"}
+{"query": "Tariq Umar Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2000-06-28", "nationality": "AE"}
+{"query": "Hasan Khalid Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1955-03-11", "nationality": "SA"}
+{"query": "Saeed Maryam Khoury", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1995-07-05", "nationality": "SA"}
+{"query": "Salma Saeed Qureshi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1996-09-08", "nationality": "SA"}
+{"query": "Tariq Muhammad Saleh", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1992-04-18", "nationality": "SA"}
+{"query": "Olga Ivanova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1982-02-23", "nationality": "GB"}
+{"query": "Fatima Ali Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1984-06-07", "nationality": "PK"}
+{"query": "Muhammad Noura Nasr", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1990-08-26", "nationality": "EG"}
+{"query": "Elena Petrova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1985-12-01", "nationality": "GB"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1959-05-16", "nationality": "IN"}
+{"query": "Layla Sultan Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1969-07-21", "nationality": "IQ"}
+{"query": "Faisal Ali Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1976-08-24", "nationality": "IN"}
+{"query": "Muhammad Nasser Haddad", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1957-05-01", "nationality": "PK"}
+{"query": "Faisal Faisal Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1972-01-17", "nationality": "JO"}
+{"query": "Hasan Faisal Othman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1956-11-05", "nationality": "EG"}
+{"query": "Aisha Hasan Farouk", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2001-03-18", "nationality": "SY"}
+{"query": "Fatima Umar Al Nuaimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1981-07-07", "nationality": "SA"}
+{"query": "Noura Salma Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1956-03-10", "nationality": "SY"}
+{"query": "Layla Ahmad Barakat", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1976-02-14", "nationality": "JO"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1957-04-06", "nationality": "IQ"}
+{"query": "Layla Rashid Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1965-02-15", "nationality": "AE"}
+{"query": "Huda Hasan Saleh", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1982-08-27", "nationality": "GB"}
+{"query": "Ibrahim Maryam Al Hashimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1975-10-26", "nationality": "EG"}
+{"query": "Fatima Hamad Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1957-10-09", "nationality": "IQ"}
+{"query": "Maryam Ibrahim Farouk", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1980-08-03", "nationality": "JO"}
+{"query": "Muhammad Tariq Rahman", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1985-08-14", "nationality": "PK"}
+{"query": "Khalid Layla Al Mansouri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1965-06-21", "nationality": "JO"}
+{"query": "Noura Hasan Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1995-01-18", "nationality": "GB"}
+{"query": "Elena Petrova", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1969-01-14", "nationality": "SA"}
+{"query": "Chen Li", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1974-11-07", "nationality": "GB"}
+{"query": "Maria Santos", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1989-05-25", "nationality": "EG"}
+{"query": "Anna Kowalski", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1992-02-01", "nationality": "JO"}
+{"query": "Sultan Faisal Saleh", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1987-03-11", "nationality": "SY"}
+{"query": "Rashid Reem Al Qasimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1978-06-15", "nationality": "GB"}
+{"query": "Saeed Maryam Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1983-01-18", "nationality": "SA"}
+{"query": "Ibrahim Majid Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1969-01-18", "nationality": "SA"}
+{"query": "Ali Majid Jaber", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1996-11-16", "nationality": "SA"}
+{"query": "Hasan Saeed Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2002-11-04", "nationality": "EG"}
+{"query": "Maryam Nasser Nasr", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1985-09-04", "nationality": "GB"}
+{"query": "Fatima Fatima Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "2003-06-11", "nationality": "SY"}
+{"query": "Tariq Umar Farouk", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "2003-10-14", "nationality": "AE"}
+{"query": "Sofia Rossi", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1964-11-07", "nationality": "SY"}
+{"query": "Salma Aisha Darwish", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1961-08-08", "nationality": "IQ"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1986-05-10", "nationality": "JO"}
+{"query": "Huda Majid Al Shamsi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1993-07-28", "nationality": "EG"}
+{"query": "Sultan Ahmad Nasr", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1994-07-10", "nationality": "EG"}
+{"query": "Fatima Hamad Al Nuaimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1965-02-18", "nationality": "IN"}
+{"query": "Ahmad Rashid Al Mansouri", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1977-03-07", "nationality": "PK"}
+{"query": "Layla Huda Al Shamsi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1976-05-05", "nationality": "GB"}
+{"query": "Saeed Majid Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "2000-06-10", "nationality": "SY"}
+{"query": "Hasan Fatima Jaber", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1968-06-04", "nationality": "GB"}
+{"query": "Priya Sharma", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1988-03-10", "nationality": "SA"}
+{"query": "Tariq Saeed Qureshi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1992-08-27", "nationality": "EG"}
+{"query": "Hasan Sultan Qureshi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1980-08-02", "nationality": "GB"}
+{"query": "Nasser Ali Nasr", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1973-06-19", "nationality": "GB"}
+{"query": "Tariq Muhammad Al Nuaimi", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1958-01-11", "nationality": "IN"}
+{"query": "Layla Tariq Saleh", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1986-09-27", "nationality": "IQ"}
+{"query": "Tariq Hasan Jaber", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1970-07-06", "nationality": "AE"}
+{"query": "Huda Noura Al Nuaimi", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1996-05-26", "nationality": "PK"}
+{"query": "Arjun Nair", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "1988-08-26", "nationality": "JO"}
+{"query": "Kevin OBrien", "target": null, "label": 0, "kind": "non_arabic_name", "dob": "2001-06-19", "nationality": "GB"}
+{"query": "Noura Nasser Al Marri", "target": null, "label": 0, "kind": "same_first_diff_family", "dob": "1956-06-14", "nationality": "AE"}
+{"query": "Maryam Saeed Nasr", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1998-05-24", "nationality": "SA"}
+{"query": "Nasser Huda Khoury", "target": null, "label": 0, "kind": "random_arabic_name", "dob": "1981-10-08", "nationality": "AE"}
+{"query": "Layla Majid Darwish", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1996-07-14", "nationality": "IQ"}
+{"query": "Reem Hamad Al Qasimi", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1962-10-08", "nationality": "SA"}
+{"query": "Rashid Tariq Othman", "target": null, "label": 0, "kind": "same_family_diff_first", "dob": "1974-12-03", "nationality": "GB"}

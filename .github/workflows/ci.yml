@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test-and-evaluate:
+    runs-on: ubuntu-latest
+    env:
+      AMANAH_LLM: none
+      AMANAH_EMBEDDINGS: "off"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements-dev.txt
+      - name: Lint
+        run: ruff check .
+      - name: Unit and integration tests
+        run: pytest -q
+      - name: Evaluation gate (fails if metrics regress)
+        run: python -m eval.run_eval --cases 300
+      - uses: actions/upload-artifact@v4
+        with:
+          name: eval-results
+          path: eval/RESULTS.md

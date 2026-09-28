@@ -61,7 +61,8 @@ class Context:
         customers, tx = mon.load_data()
         raw = json.loads((mon.DATA_DIR / "customers.json").read_text(encoding="utf-8"))
         self.customers = {c["id"]: c for c in raw}
-        self.features = mon.build_features(customers, tx)
+        self.tx = tx
+        self.features = _cached_features(customers, tx)
         try:
             self.model = mon.RiskModel.load()
         except Exception:
@@ -69,6 +70,23 @@ class Context:
             self.model, _ = mon.RiskModel.train(self.features, y)
             self.model.save()
         self.audit = Audit()
+
+
+def _cached_features(customers, tx):
+    """Feature building takes ~30 s; cache it next to the model, keyed on the data file."""
+    import pandas as pd
+
+    src = mon.DATA_DIR / "transactions.csv"
+    cache = mon.ARTIFACTS / "features.pkl"
+    stamp = mon.ARTIFACTS / "features.stamp"
+    key = f"{src.stat().st_mtime}-{src.stat().st_size}"
+    if cache.exists() and stamp.exists() and stamp.read_text() == key:
+        return pd.read_pickle(cache)
+    feats = mon.build_features(customers, tx)
+    mon.ARTIFACTS.mkdir(parents=True, exist_ok=True)
+    feats.to_pickle(cache)
+    stamp.write_text(key)
+    return feats
 
 
 @lru_cache(maxsize=1)
@@ -186,18 +204,32 @@ def _facts(state: CaseState) -> str:
     return "\n".join(lines)
 
 
+LIST_NAMES = {"SAMPLE-UNSC": "UN Security Council sanctions list", "SAMPLE-LOCAL-TERRORIST-LIST": "UAE local terrorist list",
+              "SAMPLE-PEP": "politically exposed persons list"}
+
+
 def _template_case(state: CaseState, passages) -> dict:
+    """Plain-English case report used when no LLM is connected."""
     s, m, k = state["screening"], state["monitoring"], state["kyc"]
-    flags = [i["issue"] for i in k["issues"]] + m["indicators"]
-    if s["hits"]:
-        flags.insert(0, f"Watchlist hit: {s['hits'][0]['listed_name']} ({s['hits'][0]['reason']})")
+    flags = []
+    if s["hits"] and s["disposition"] != "no_match":
+        h = s["hits"][0]
+        extra = " and the date of birth also matches" if h.get("dob_match") else ""
+        flags.append(f"The name matches {h['listed_name']} on the {LIST_NAMES.get(h['list_name'], h['list_name'])}{extra}")
+    flags += [f"ID card: {i['issue']}" for i in k["issues"]]
+    flags += m["indicators"]
+    if m["alert"] and not m["indicators"]:
+        flags.append(f"The transaction model rates this customer's money activity {round(m['risk_score'] * 100)}% risky")
     floor = state["policy_floor"]
+    name = state["customer"].get("name_en", state["customer"]["id"])
+    summary = (f"{name} ({state['customer']['id']}) needs review. " + ". ".join(flags[:3]) + "."
+               if flags else f"{name} ({state['customer']['id']}) passed all checks.")
     return {
-        "summary": f"Customer {state['customer']['id']} requires review: " + (flags[0] if flags else "model risk alert") + ".",
+        "summary": summary,
         "red_flags": flags or ["Elevated transaction risk score"],
-        "legitimate_explanations_to_check": ["Source of funds documentation", "Recent life or business events"],
+        "legitimate_explanations_to_check": ["Proof of where the money came from", "Recent life or business events (property sale, bonus)"],
         "recommendation": floor,
-        "rationale": f"Policy floor '{floor}' applies based on the findings above.",
+        "rationale": f"Bank policy sets the minimum action to '{floor}' for these findings.",
         "citations": [p.citation for p, _ in passages],
         "drafted_by": "template",
     }

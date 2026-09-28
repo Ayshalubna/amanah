@@ -7,9 +7,15 @@
 
 **Amanah** (أمانة, "trust") is a multi-agent system that helps bank compliance teams onboard customers and investigate suspicious activity. It checks identity documents, screens names against sanctions lists in both Arabic and English, scores transaction risk, and drafts a cited case report. **The investigator approves every decision.**
 
-Built with LangGraph, LightGBM, SHAP, FastAPI and Streamlit. It runs **completely free**: locally with Ollama, on a free API tier, or with no LLM at all.
+Built with LangGraph, LightGBM, SHAP and FastAPI, with a plain-language web app anyone can use. It runs **completely free**: locally with Ollama, on a free API tier, or with no LLM at all.
 
-![Dashboard](docs/dashboard.png)
+**▶ Live demo:** _coming soon (Hugging Face Spaces)_
+
+![Home](docs/home.png)
+
+| Investigate a customer | Browse all customers |
+|---|---|
+| ![Investigation](docs/investigation.png) | ![Customers](docs/customers.png) |
 
 ---
 
@@ -98,10 +104,11 @@ python -m venv .venv
 pip install -r requirements-dev.txt
 
 python -m scripts.train_model        # generates synthetic data + trains the risk model
-pytest -q                            # 18 tests
-streamlit run app/dashboard.py       # investigator dashboard  -> http://localhost:8501
-uvicorn amanah.api:api --reload      # REST API + docs        -> http://localhost:8000/docs
+pytest -q                            # 22 tests
+python -m scripts.serve              # web app + API -> http://localhost:8000 (opens your browser)
 ```
+
+The web app explains everything in plain language: browse all 3,000 customers and their transactions, open the banned-persons list, check any name in Arabic or English, watch the agents investigate a customer step by step, and approve or escalate the case. API docs are at `/docs`.
 
 ### Choose an LLM (all free)
 
@@ -113,12 +120,21 @@ uvicorn amanah.api:api --reload      # REST API + docs        -> http://localhos
 
 Optional hybrid retrieval: `pip install -r requirements-embeddings.txt` adds multilingual embeddings (`intfloat/multilingual-e5-small`) on top of TF-IDF.
 
-### Docker
+### Docker (production image)
 
 ```bash
-docker compose up --build
-docker compose exec ollama ollama pull qwen2.5:7b
+docker compose up --build            # -> http://localhost:8000
 ```
+
+## Production readiness
+
+- **Single container**: data, model, feature and screening caches are built into the image, so the server is ready in ~3 s and the first case takes ~60 ms
+- **Security headers**: strict Content-Security-Policy (no inline scripts, no third-party requests), `nosniff`, referrer and permissions policies
+- **Rate limiting**: per-client sliding window, stricter for writes
+- **Input validation**: typed request models, ID patterns and length limits (bad input returns 422, never a stack trace)
+- **Operations**: `/health` endpoint + Docker healthcheck, structured access logs, gzip, cache headers, non-root user, pinned dependencies
+- **CI**: lint, tests and an evaluation gate that fails the build if accuracy drops
+- **Free hosting**: `deploy/huggingface/` contains a ready-to-use Hugging Face Docker Space
 
 ### Use the real UN sanctions list
 
@@ -150,10 +166,14 @@ amanah/
   rag.py          bilingual policy retrieval (TF-IDF / hybrid)
   llm.py          Ollama / OpenAI-compatible / none
   audit.py        SQLite case store + audit trail
-  api.py          FastAPI
+  api.py          FastAPI (REST + web data endpoints)
+  overview.py     plain-language data views for the web app
+  hardening.py    security headers, rate limiting, logging, warm start
   synth.py        deterministic synthetic data generator
   data/policies/  sample AML procedures (English + Arabic)
-app/dashboard.py  Streamlit investigator UI
+web/              animated single-page web app (HTML/CSS/JS, no build step)
+scripts/serve.py  one-command local launcher
+deploy/           Hugging Face Spaces deployment
 eval/run_eval.py  evaluation harness + CI regression gate
 tests/            unit, integration and guardrail tests
 ```

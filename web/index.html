@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Amanah — AML & KYC Copilot</title>
+<meta name="description" content="An AI assistant that checks bank customers for money laundering and sanctions, and explains every answer in plain English.">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23141414'/%3E%3Ctext x='50%25' y='58%25' text-anchor='middle' font-family='Arial' font-weight='800' font-size='38' fill='%23f1ee6a'%3Ea%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+<div class="ticker" aria-hidden="true"><div class="ticker-track" id="ticker"></div></div>
+
+<header class="nav" id="nav">
+  <div class="wrap nav-in">
+    <a href="#/" class="logo">amanah<i></i></a>
+    <nav class="links" id="links">
+      <a href="#/" data-r="home">Overview</a>
+      <a href="#/customers" data-r="customers">Customers</a>
+      <a href="#/check" data-r="check">Name check</a>
+      <a href="#/watchlist" data-r="watchlist">Banned list</a>
+      <a href="#/cases" data-r="cases">Decisions</a>
+      <a href="#/accuracy" data-r="accuracy">Accuracy</a>
+      <a href="#/help" data-r="help">Help</a>
+    </nav>
+    <div class="nav-cta">
+      <span class="pill" id="ai-pill" title="Which AI model writes the case reports"><span class="led"></span><span id="ai-txt">AI ready</span></span>
+      <a href="#/customers" class="btn btn-dark">Investigate <span class="arrow">→</span></a>
+      <button class="menu-btn" id="menu-btn" aria-label="Open menu">Menu</button>
+    </div>
+  </div>
+</header>
+
+<main id="app" class="wrap"></main>
+
+<footer>
+  <div class="wrap f">
+    <div>
+      <div class="logo">amanah<i></i></div>
+      <p style="margin-top:10px;max-width:520px">AI assistant for bank compliance teams. Built by Ayesha Lubna. All customers, transactions and banned-list names in this demo are synthetic (made up) — no real people.</p>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:6px">
+      <a href="#/help">How to use</a>
+      <a href="#/accuracy">How accurate is it?</a>
+      <a href="https://github.com/Ayshalubna/amanah" target="_blank" rel="noopener">Source code on GitHub ↗</a>
+    </div>
+  </div>
+</footer>
+<div class="toast" id="toast"></div>
+<script src="app.js"></script>
+</body>
+</html>

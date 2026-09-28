@@ -3,8 +3,9 @@ title: Amanah — AML & KYC Copilot
 emoji: 🛡️
 colorFrom: gray
 colorTo: yellow
-sdk: docker
-app_port: 7860
+sdk: gradio
+sdk_version: 6.28.0
+app_file: app.py
 pinned: true
 short_description: Arabic–English multi-agent AML & KYC investigation copilot
 ---

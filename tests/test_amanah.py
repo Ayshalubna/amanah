@@ -163,3 +163,59 @@ def test_api_open_and_review_case():
     assert client.post(f"/cases/{opened['case_id']}/review",
                        json={"decision": "approve", "reviewer": "x2"}).status_code == 409
     assert "typologies" not in client.get("/customers/C00002").json()
+
+
+# --- web app + production hardening -------------------------------------------
+
+def _client():
+    from fastapi.testclient import TestClient
+
+    from amanah.api import api
+
+    return TestClient(api)
+
+
+def test_web_app_and_data_endpoints():
+    client = _client()
+    assert client.get("/").status_code == 200
+    stats = client.get("/api/stats").json()
+    assert stats["customers"] == 3000 and stats["watchlist"] == 60
+    page = client.get("/api/customers?risk=high&size=5").json()
+    assert page["rows"] and all(r["risk_level"] == "high" for r in page["rows"])
+    assert "typologies" not in page["rows"][0] and "watchlist_ref" not in page["rows"][0]
+    detail = client.get(f"/api/customers/{page['rows'][0]['id']}").json()
+    assert detail["transactions"] and "summary" in detail
+    assert len(client.get("/api/watchlist").json()) == 60
+    assert set(client.get("/api/examples").json()) == {"sanctions", "suspicious", "clean"}
+
+
+def test_security_headers_present():
+    r = _client().get("/api/stats")
+    assert r.headers["x-content-type-options"] == "nosniff"
+    assert "frame-ancestors" in r.headers["content-security-policy"]
+    assert r.headers["cache-control"] == "no-store"
+
+
+def test_input_validation_rejects_bad_values():
+    client = _client()
+    assert client.post("/cases", json={"customer_id": "../etc/passwd"}).status_code == 422
+    assert client.get("/api/customers?sort=drop_table").status_code == 422
+    assert client.post("/screen", json={"name_en": "x" * 500}).status_code == 422
+
+
+def test_rate_limit_blocks_floods():
+    from fastapi import FastAPI
+    from fastapi.testclient import TestClient
+
+    from amanah.hardening import RateLimit
+
+    app = FastAPI()
+    app.add_middleware(RateLimit, reads_per_min=3, writes_per_min=1)
+
+    @app.get("/ping")
+    def ping():
+        return {"ok": True}
+
+    c = TestClient(app)
+    codes = [c.get("/ping").status_code for _ in range(5)]
+    assert codes[:3] == [200, 200, 200] and codes[-1] == 429

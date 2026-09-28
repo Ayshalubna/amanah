@@ -9,7 +9,7 @@
 
 Built with LangGraph, LightGBM, SHAP and FastAPI, with a plain-language web app anyone can use. It runs **completely free**: locally with Ollama, on a free API tier, or with no LLM at all.
 
-**▶ Live demo:** _coming soon (Hugging Face Spaces)_
+**▶ Live demo: [lubna777-amanah.hf.space](https://lubna777-amanah.hf.space)** (free hosting, may take ~1 minute to wake up if it has been idle)
 
 ![Home](docs/home.png)
 
@@ -134,7 +134,7 @@ docker compose up --build            # -> http://localhost:8000
 - **Input validation**: typed request models, ID patterns and length limits (bad input returns 422, never a stack trace)
 - **Operations**: `/health` endpoint + Docker healthcheck, structured access logs, gzip, cache headers, non-root user, pinned dependencies
 - **CI**: lint, tests and an evaluation gate that fails the build if accuracy drops
-- **Free hosting**: `deploy/huggingface/` contains a ready-to-use Hugging Face Docker Space
+- **Free hosting**: `deploy/huggingface/` runs the app on a free Hugging Face Space (CPU tier)
 
 ### Use the real UN sanctions list
 

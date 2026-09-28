@@ -26,7 +26,25 @@ if not (SRC / "artifacts" / "screening_cache.json").exists():
     subprocess.run([sys.executable, "-c",
                     "from amanah import graph, overview; graph.ctx(); overview.screening_all()"], check=True)
 
+import spaces  # noqa: E402
 import uvicorn  # noqa: E402
+
+
+@spaces.GPU
+def _gpu_placeholder():
+    """ZeroGPU requires one GPU-decorated function; Amanah itself runs entirely on CPU."""
+    return None
+
+
+# ZeroGPU normally reports readiness when a Gradio app launches; we serve FastAPI directly,
+# so report it ourselves.
+from spaces.config import Config as _SpacesConfig  # noqa: E402
+
+if _SpacesConfig.zero_gpu:
+    from spaces import zero as _zero
+
+    _zero.startup()
+
 
 from amanah.api import api  # noqa: E402
 
